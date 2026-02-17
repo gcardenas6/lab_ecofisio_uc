@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Facultad de Ciencias Biológicas, Pontificia Universidad Católica de Chile </p>
-    <p>Edificio 210 - 3er piso - Of. 320</p>
+    <p>Edificio 210 - Of. 320</p>
     <p>Mail: enrico.rezende@uc.cl</p>
 
 
