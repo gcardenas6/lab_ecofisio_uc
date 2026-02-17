@@ -1,128 +1,148 @@
 ---
-layout: profiles
+layout: page
 permalink: /integrantes/
 title: Integrantes
 description: Miembros del laboratorio
 nav: true
 nav_order: 7
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  
-  # Principal Investigator
-  - align: right
-    image: enrico_rezende.jpg
-    image_circular: false
-    content: about_enrico.md
-    more_info: >
-      <h3>Principal Investigator</h3>
-      <p><strong>Enrico Rezende</strong></p>
-      <p>Profesor Titular</p>
-      <p> enrico.rezende@uc.cl</p>
-
-  - align: left
-    image: placeholder.jpg
-#   content: Avia
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <h3>Lab Manager</h3>
-      <p><strong>Avia González</strong></p>
-      <p>aviagonzalez@gmail.com</p>
-
-  - align: right
-    image: ignacio_peralta_maraver.jpg
-#   content: Avia
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <h3>Postdoc</h3>
-      <p><strong>Ignacio Peralta-Maraver</strong></p>
-      <p>peraltamaraver@ugr.es</p>
-  
-  # Graduate Students
-  - align: left
-    image: gustavo_cardenas2.jpeg
-    image_circular: false
-    content: about_gustavo.md
-    more_info: >
-      <h3>Estudiantes de posgrado</h3>
-      <p><strong>Gustavo Cárdenas</strong></p>
-      <p>PhD Student</p>
-
-  - align: left
-    image: lazaro_castro.jpg
-#    content: Lázaro
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p><strong>Lázaro Castro</strong></p>
-      <p>PhD(c)</p>
-
-  - align: left
-    image: francisca_mann.jpg
-#    content: Fran
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p><strong>Francisca Mann</strong></p>
-      <p>PhD(c)</p>
-
-  - align: left
-    image: andres_molina.jpg
-#    content: Andrés
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p><strong>Andrés Molina</strong></p>
-      <p>PhD(c)</p>
-
-  - align: left
-    image: placeholder.jpg
-#    content: Jahir
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p><strong>Jahir Muñoz</strong></p>
-      <p>PhD(c)</p>
-  
-  - align: left
-    image: cristian_zamora.jpg
-#    content: Cristian
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p><strong>Cristián Zamora</strong></p>
-      <p>PhD(c)</p>
-
-  # Undergraduate Students
-  - align: right
-    image: placeholder.jpg
-    image_circular: false
-    more_info: >
-      <h3>Undergraduate Students</h3>
-      <p><strong>Diego Carmona</strong></p>
-      <p>Licenciado en Biología</p>
-
-  - align: right
-    image: benjamin_davis.jpeg
-    image_circular: false
-    more_info: >
-      <p><strong>Benjamín Davis</strong></p>
-
-  - align: right
-    image: placeholder.jpg
-    image_circular: false
-    more_info: >
-      <p><strong>Josefina Parraguirre</strong></p>
-
-  - align: right
-    image: placeholder.jpg
-    image_circular: false
-    more_info: >
-      <p><strong>Melanie APELLIDO</strong></p>
-
-  - align: left
-    image: 
-    image_circular: false
-    more_info: >
-      <h2>Lab Alumni</h2>
-      <ul>
-        <li>Gabriela Poblete (2020 - 2023)</li>
-        <li>Amalia Baezam (2019 - 2022)</li>
-      </ul>
 ---
+
+<style>
+.team-card {
+  height: 100%;
+}
+.team-card img {
+  height: 300px;
+  object-fit: cover;
+}
+.team-card .card-body {
+  text-align: center;
+}
+</style>
+
+## Investigador Principal
+
+<div class="row">
+  <div class="col-sm-6 col-md-4 mb-4">
+    <div class="card team-card hoverable">
+      <img src="{{ '/assets/img/enrico_rezende.jpg' | relative_url }}" alt="Enrico Rezende" class="card-img-top">
+      <div class="card-body">
+        <h5 class="card-title">Enrico Rezende</h5>
+        <p class="card-text"><strong>Principal Investigator</strong><br>Ecofisiología</p>
+        <p class="card-text small">Su investigación se enfoca en ecofisiología comparada y teoría metabólica.</p>
+        <p class="card-text"><a href="mailto:enrico.rezende@uc.cl">enrico.rezende@uc.cl</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+
+## Encargada de Laboratorio
+
+<div class="row">
+  <div class="col-sm-6 col-md-4 mb-4">
+    <div class="card team-card hoverable">
+      <img src="{{ '/assets/img/placeholder.jpg' | relative_url }}" alt="Avia González" class="card-img-top">
+      <div class="card-body">
+        <h5 class="card-title">Avia González</h5>
+        <p class="card-text"><strong>Lab Manager</strong></p>
+        <p class="card-text small">Coordinación del laboratorio y apoyo a proyectos de investigación.</p>
+        <p class="card-text"><a href="mailto:avia@uc.cl">avia@uc.cl</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+
+## Estudiantes de Doctorado
+
+<div class="row">
+  <div class="col-sm-6 col-md-4 mb-4">
+    <div class="card team-card hoverable">
+      <img src="{{ '/assets/img/gustavo_cardenas2.jpeg' | relative_url }}" alt="Gustavo Cárdenas" class="card-img-top">
+      <div class="card-body">
+        <h5 class="card-title">Gustavo Cárdenas</h5>
+        <p class="card-text"><strong>PhD Student</strong><br>Ecología de Redes</p>
+        <p class="card-text small">Investigación en redes de polinizadores en paisajes fragmentados.</p>
+        <p class="card-text"><a href="mailto:gcardenas@uc.cl">gcardenas@uc.cl</a></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 col-md-4 mb-4">
+    <div class="card team-card hoverable">
+      <img src="{{ '/assets/img/lazaro_castro.jpg' | relative_url }}" alt="Lázaro Castro" class="card-img-top">
+      <div class="card-body">
+        <h5 class="card-title">Lázaro Castro</h5>
+        <p class="card-text"><strong>PhD Student</strong></p>
+        <p class="card-text small">Bio de Lázaro y su investigación.</p>
+        <p class="card-text"><a href="mailto:lcastro@uc.cl">lcastro@uc.cl</a></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 col-md-4 mb-4">
+    <div class="card team-card hoverable">
+      <img src="{{ '/assets/img/francisca_mann.jpg' | relative_url }}" alt="Francisca Mann" class="card-img-top">
+      <div class="card-body">
+        <h5 class="card-title">Francisca Mann</h5>
+        <p class="card-text"><strong>MSc Student</strong></p>
+        <p class="card-text small">Investigación de Francisca.</p>
+        <p class="card-text"><a href="mailto:fmann@uc.cl">fmann@uc.cl</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+
+## Estudiantes de Pregrado
+
+<div class="row">
+  <div class="col-sm-6 col-md-4 mb-4">
+    <div class="card team-card hoverable">
+      <img src="{{ '/assets/img/andres_molina.jpg' | relative_url }}" alt="Andrés Molina" class="card-img-top">
+      <div class="card-body">
+        <h5 class="card-title">Andrés Molina</h5>
+        <p class="card-text"><strong>Undergraduate Student</strong></p>
+        <p class="card-text small">Proyecto de tesis...</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 col-md-4 mb-4">
+    <div class="card team-card hoverable">
+      <img src="{{ '/assets/img/placeholder.jpg' | relative_url }}" alt="Jahir Muñoz" class="card-img-top">
+      <div class="card-body">
+        <h5 class="card-title">Jahir Muñoz</h5>
+        <p class="card-text"><strong>Undergraduate Student</strong></p>
+        <p class="card-text small">Proyecto...</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 col-md-4 mb-4">
+    <div class="card team-card hoverable">
+      <img src="{{ '/assets/img/cristian_zamora.jpg' | relative_url }}" alt="Cristian Zamora" class="card-img-top">
+      <div class="card-body">
+        <h5 class="card-title">Cristian Zamora</h5>
+        <p class="card-text"><strong>Undergraduate Student</strong></p>
+        <p class="card-text small">Proyecto...</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+
+## Lab Alumni
+
+### Estudiantes de Doctorado
+- Gabriela Poblete (2020 - 2023)
+- Amalia Baezam (2019 - 2022)
+
+### Estudiantes de Pregrado
+- Nombre (2022)
+- Nombre (2021)
