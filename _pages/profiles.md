@@ -44,7 +44,7 @@ nav_order: 7
     <img src="{{ '/assets/img/gustavo_cardenas2.jpeg' | relative_url }}" alt="Gustavo Cárdenas" class="img-fluid rounded">
   </div>
   <div class="col-sm-8">
-    <h4>Gustavo Cárdenas, MSc, PhD(c)</h4>
+    <h4>Gustavo Cárdenas</h4>
     <p>gcardenas@uc.cl</p>
     <p>Descripción de investigación de Gustavo...</p>
   </div>
@@ -66,7 +66,7 @@ nav_order: 7
     <img src="{{ '/assets/img/francisca_mann.jpg' | relative_url }}" alt="Francisca Mann" class="img-fluid rounded">
   </div>
   <div class="col-sm-8">
-    <h4>Francisca Mann</h4>
+    <h4>Francisca Mann PhD(c)</h4>
     <p>fmann@uc.cl</p>
     <p>Investigación de Fran...</p>
   </div>
