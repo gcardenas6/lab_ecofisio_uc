@@ -170,7 +170,7 @@ nav_order: 4
     <div class="card team-card hoverable">
       <img src="{{ '/assets/img/benjamin_davis.jpeg' | relative_url }}" alt="Benjamin Davis" class="card-img-top">
       <div class="card-body">
-        <h5 class="card-title">Benjamin Davis</h5>
+        <h5 class="card-title">Benjamín Davis</h5>
         <p class="card-text"><strong>Estudiante de pregrado</strong></p>
         <p class="card-text small">Texto</p>
         <p class="card-text"><a href="mailto:b.davis.simian@estudiante.uc.cl">b.davis.simian@estudiante.uc.cl</a></p>

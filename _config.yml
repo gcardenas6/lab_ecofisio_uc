@@ -8,8 +8,7 @@ middle_name: L.
 last_name: Rezende
 contact_note: >
  enrico.rezende@uc.cl
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Laboratorio de Ecología Fisiológica y Evolutiva de la Pontificia Universidad Católica de Chile.
+description: Laboratorio de Ecología Fisiológica y Evolutiva de la Pontificia Universidad Católica de Chile.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
