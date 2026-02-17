@@ -8,7 +8,6 @@ nav_order: 7
 ---
 
 ## INVESTIGADOR PRINCIPAL
-{: .mt-5}
 <div class="row">
   <div class="col-sm-4">
     <img src="{{ '/assets/img/enrico_rezende.jpg' | relative_url }}" alt="Enrico Rezende" class="img-fluid rounded">
@@ -23,7 +22,6 @@ nav_order: 7
 ---
 
 ## ENCARGADA DE LABORATORIO
-{: .mt-5}
 <div class="row">
   <div class="col-sm-4">
     <img src="{{ '/assets/img/placeholder.jpg' | relative_url }}" alt="Avia González" class="img-fluid rounded">
@@ -38,7 +36,6 @@ nav_order: 7
 ---
 
 ## ESTUDIANTES DE DOCTORADO
-{: .mt-5}
 <div class="row mb-6">
   <div class="col-sm-4">
     <img src="{{ '/assets/img/gustavo_cardenas2.jpeg' | relative_url }}" alt="Gustavo Cárdenas" class="img-fluid rounded">
@@ -95,7 +92,6 @@ nav_order: 7
 ---
 
 ## ESTUDIANTES DE PREGRADO
-{: .mt-5}
 <div class="row mb-6">
   <div class="col-sm-6">
     <img src="{{ '/assets/img/placeholder.jpg' | relative_url }}" alt="Diego Carmona" class="img-fluid rounded">
