@@ -2,9 +2,8 @@
 layout: page
 permalink: /integrantes/
 title: Integrantes
-description: Miembros del laboratorio
 nav: true
-nav_order: 7
+nav_order: 4
 ---
 
 <style>
@@ -49,6 +48,24 @@ nav_order: 7
         <p class="card-text"><strong>Lab Manager</strong></p>
         <p class="card-text small">Text.</p>
         <p class="card-text"><a href="mailto:aviagonzalez@gmail.com">aviagonzalez@gmail.com</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+
+## Postdoc
+
+<div class="row">
+  <div class="col-sm-6 col-md-4 mb-4">
+    <div class="card team-card hoverable">
+      <img src="{{ '/assets/img/ignacio_peralta_maraver.jpg' | relative_url }}" alt="Ignacio Peralta-Maraver" class="card-img-top">
+      <div class="card-body">
+        <h5 class="card-title">Ignacio Peralta-Maraver</h5>
+        <p class="card-text"><strong>Investigador Postdoc</strong></p>
+        <p class="card-text small">Text.</p>
+        <p class="card-text"><a href="mailto:peraltamaraver@ugr.es">peraltamaraver@ugr.es</a></p>
       </div>
     </div>
   </div>
