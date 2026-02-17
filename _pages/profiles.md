@@ -39,7 +39,7 @@ nav_order: 7
 
 ## ESTUDIANTES DE DOCTORADO
 
-<div class="row mb-4">
+<div class="row mb-5">
   <div class="col-sm-4">
     <img src="{{ '/assets/img/gustavo_cardenas2.jpeg' | relative_url }}" alt="Gustavo Cárdenas" class="img-fluid rounded">
   </div>
@@ -50,7 +50,7 @@ nav_order: 7
   </div>
 </div>
 
-<div class="row mb-4">
+<div class="row mb-5">
   <div class="col-sm-4">
     <img src="{{ '/assets/img/lazaro_castro.jpg' | relative_url }}" alt="Lázaro Castro" class="img-fluid rounded">
   </div>
@@ -61,11 +61,7 @@ nav_order: 7
   </div>
 </div>
 
----
-
-## ESTUDIANTES DE MAGÍSTER
-
-<div class="row mb-4">
+<div class="row mb-5">
   <div class="col-sm-4">
     <img src="{{ '/assets/img/francisca_mann.jpg' | relative_url }}" alt="Francisca Mann" class="img-fluid rounded">
   </div>
