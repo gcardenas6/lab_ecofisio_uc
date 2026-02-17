@@ -72,16 +72,12 @@ nav_order: 7
   </div>
 </div>
 
----
-
-## ESTUDIANTES DE PREGRADO
-
 <div class="row mb-4">
   <div class="col-sm-4">
     <img src="{{ '/assets/img/andres_molina.jpg' | relative_url }}" alt="Andrés Molina" class="img-fluid rounded">
   </div>
   <div class="col-sm-8">
-    <h4>Andrés Molina</h4>
+    <h4>Andrés Molina PhD(c)</h4>
     <p>Proyecto: ...</p>
   </div>
 </div>
@@ -91,7 +87,31 @@ nav_order: 7
     <img src="{{ '/assets/img/placeholder.jpg' | relative_url }}" alt="Jahir Muñoz" class="img-fluid rounded">
   </div>
   <div class="col-sm-8">
-    <h4>Jahir Muñoz</h4>
+    <h4>Jahir Muñoz PhD(c)</h4>
+    <p>Proyecto: ...</p>
+  </div>
+</div>
+
+---
+
+## ESTUDIANTES DE PREGRADO
+
+<div class="row mb-4">
+  <div class="col-sm-4">
+    <img src="{{ '/assets/img/placeholder.jpg' | relative_url }}" alt="Andrés Molina" class="img-fluid rounded">
+  </div>
+  <div class="col-sm-8">
+    <h4>Diego Carmona</h4>
+    <p>Proyecto: ...</p>
+  </div>
+</div>
+
+<div class="row mb-4">
+  <div class="col-sm-4">
+    <img src="{{ '/assets/benjamin_davis.jpg' | relative_url }}" alt="Jahir Muñoz" class="img-fluid rounded">
+  </div>
+  <div class="col-sm-8">
+    <h4>Benjamín Davis</h4>
     <p>Proyecto: ...</p>
   </div>
 </div>
