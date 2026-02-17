@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Enrico Rezende.
+subtitle: <strong>Enrico Rezende</strong>
 
 profile:
   align: right
