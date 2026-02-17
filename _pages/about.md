@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Nuestro lab
+title: Home
 permalink: /
 subtitle: <strong>Enrico Rezende</strong>
 

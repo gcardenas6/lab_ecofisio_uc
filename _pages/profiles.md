@@ -60,7 +60,7 @@ nav_order: 4
 <div class="row">
   <div class="col-sm-6 col-md-4 mb-4">
     <div class="card team-card hoverable">
-      <img src="{{ '/assets/img/ignacio_peralta_maraver.jpg' | relative_url }}" alt="Ignacio Peralta-Maraver" class="card-img-top">
+      <img src="{{ '/assets/img/ignacio_peralta_maraver2.jpg' | relative_url }}" alt="Ignacio Peralta-Maraver" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Ignacio Peralta-Maraver</h5>
         <p class="card-text"><strong>Investigador Postdoc</strong></p>
