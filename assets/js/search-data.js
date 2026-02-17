@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab_ecofisio_uc/projects/";
           },
-        },{id: "nav-people",
-          title: "people",
+        },{id: "nav-integrantes",
+          title: "Integrantes",
           description: "Miembros del laboratorio",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/lab_ecofisio_uc/people/";
+            window.location.href = "/lab_ecofisio_uc/integrantes/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
