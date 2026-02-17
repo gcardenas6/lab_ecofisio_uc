@@ -1,0 +1,11 @@
+// Make year headers more visible
+.bibliography {
+  h2.year {
+    color: #333333 !important;  // Dark gray, almost black
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #999;  // Optional: adds underline
+  }
+}
