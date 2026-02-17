@@ -8,7 +8,7 @@ nav_order: 7
 ---
 
 ## INVESTIGADOR PRINCIPAL
-
+{: .mt-5}
 <div class="row">
   <div class="col-sm-4">
     <img src="{{ '/assets/img/enrico_rezende.jpg' | relative_url }}" alt="Enrico Rezende" class="img-fluid rounded">
@@ -23,7 +23,7 @@ nav_order: 7
 ---
 
 ## ENCARGADA DE LABORATORIO
-
+{: .mt-5}
 <div class="row">
   <div class="col-sm-4">
     <img src="{{ '/assets/img/placeholder.jpg' | relative_url }}" alt="Avia González" class="img-fluid rounded">
@@ -38,8 +38,8 @@ nav_order: 7
 ---
 
 ## ESTUDIANTES DE DOCTORADO
-
-<div class="row mb-5">
+{: .mt-5}
+<div class="row mb-6">
   <div class="col-sm-4">
     <img src="{{ '/assets/img/gustavo_cardenas2.jpeg' | relative_url }}" alt="Gustavo Cárdenas" class="img-fluid rounded">
   </div>
@@ -50,7 +50,7 @@ nav_order: 7
   </div>
 </div>
 
-<div class="row mb-5">
+<div class="row mb-6">
   <div class="col-sm-4">
     <img src="{{ '/assets/img/lazaro_castro.jpg' | relative_url }}" alt="Lázaro Castro" class="img-fluid rounded">
   </div>
@@ -61,7 +61,7 @@ nav_order: 7
   </div>
 </div>
 
-<div class="row mb-5">
+<div class="row mb-6">
   <div class="col-sm-4">
     <img src="{{ '/assets/img/francisca_mann.jpg' | relative_url }}" alt="Francisca Mann" class="img-fluid rounded">
   </div>
@@ -72,7 +72,7 @@ nav_order: 7
   </div>
 </div>
 
-<div class="row mb-4">
+<div class="row mb-6">
   <div class="col-sm-4">
     <img src="{{ '/assets/img/andres_molina.jpg' | relative_url }}" alt="Andrés Molina" class="img-fluid rounded">
   </div>
@@ -82,7 +82,7 @@ nav_order: 7
   </div>
 </div>
 
-<div class="row mb-4">
+<div class="row mb-6">
   <div class="col-sm-4">
     <img src="{{ '/assets/img/placeholder.jpg' | relative_url }}" alt="Jahir Muñoz" class="img-fluid rounded">
   </div>
@@ -95,10 +95,10 @@ nav_order: 7
 ---
 
 ## ESTUDIANTES DE PREGRADO
-
-<div class="row mb-4">
-  <div class="col-sm-4">
-    <img src="{{ '/assets/img/placeholder.jpg' | relative_url }}" alt="Andrés Molina" class="img-fluid rounded">
+{: .mt-5}
+<div class="row mb-6">
+  <div class="col-sm-6">
+    <img src="{{ '/assets/img/placeholder.jpg' | relative_url }}" alt="Diego Carmona" class="img-fluid rounded">
   </div>
   <div class="col-sm-8">
     <h4>Diego Carmona</h4>
@@ -106,12 +106,22 @@ nav_order: 7
   </div>
 </div>
 
-<div class="row mb-4">
+<div class="row mb-6">
   <div class="col-sm-4">
-    <img src="{{ '/assets/benjamin_davis.jpg' | relative_url }}" alt="Jahir Muñoz" class="img-fluid rounded">
+    <img src="{{ '/assets/benjamin_davis.jpeg' | relative_url }}" alt="Benjamin Davis" class="img-fluid rounded">
   </div>
   <div class="col-sm-8">
     <h4>Benjamín Davis</h4>
+    <p>Proyecto: ...</p>
+  </div>
+</div>
+
+<div class="row mb-6">
+  <div class="col-sm-4">
+    <img src="{{ '/assets/img/placeholder.jpg' | relative_url }}" alt="Josefina Parraguirre" class="img-fluid rounded">
+  </div>
+  <div class="col-sm-8">
+    <h4>Josefina Parraguirre</h4>
     <p>Proyecto: ...</p>
   </div>
 </div>
@@ -120,5 +130,5 @@ nav_order: 7
 
 ## Lab Alumni
 
-- Gabriela Poblete (2020 - 2023)
-- Amalia Baeza (2019 - 2022)
+- Gabriela Poblete (años)
+- Amalia Baeza (años)
