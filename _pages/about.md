@@ -6,7 +6,7 @@ subtitle: <strong>Enrico Rezende</strong>
 
 profile:
   align: right
-  image: enrico_rezende.jpg
+  image: enrico_rezende2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Facultad de Ciencias Biológicas, Pontificia Universidad Católica de Chile </p>
