@@ -30,21 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab_ecofisio_uc/integrantes/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/lab_ecofisio_uc/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/lab_ecofisio_uc/blog/";
-              },
-            },{id: "books-the-godfather",
+        },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
