@@ -25,7 +25,7 @@ profiles:
       <p>Avia González</p>
 
   - align: right
-    image: gustavo_cardenas.JPG
+    image: gustavo_cardenas2.jpeg
 #    content: Gustavo
     image_circular: false # crops the image to make it circular
     more_info: >
