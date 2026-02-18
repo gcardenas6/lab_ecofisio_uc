@@ -25,13 +25,13 @@ ninja.data = [{
           },
         },{id: "nav-proyectos",
           title: "Proyectos",
-          description: "",
+          description: "Nuestras principales líneas de investigación",
           section: "Navigation",
           handler: () => {
             window.location.href = "/lab_ecofisio_uc/es/projects/";
           },
-        },{id: "nav-research-lines",
-          title: "Research Lines",
+        },{id: "nav-projects",
+          title: "Projects",
           description: "Our main areas of research",
           section: "Navigation",
           handler: () => {
