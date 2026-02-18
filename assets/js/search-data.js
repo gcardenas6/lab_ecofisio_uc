@@ -69,17 +69,17 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-evolution-of-integrated-phenotypes",
           title: 'Evolution of Integrated Phenotypes',
-          description: "Understanding how ectothermic organisms respond to temperature variations",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/lab_ecofisio_uc/projects/evophysio/";
             },},{id: "projects-ecological-networks",
           title: 'Ecological Networks',
-          description: "Evaluating how ecological networks restructure under climate change",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/lab_ecofisio_uc/projects/interaction_networks/";
             },},{id: "projects-thermal-biology-and-climate-change",
           title: 'Thermal Biology and Climate Change',
-          description: "Predicting how organisms adapt and survive under global warming scenarios",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/lab_ecofisio_uc/projects/thermalbio/";
             },},{id: "teachings-data-science-fundamentals",
