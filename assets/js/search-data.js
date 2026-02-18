@@ -14,6 +14,13 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
+            window.location.href = "/lab_ecofisio_uc/es/publications/";
+          },
+        },{id: "nav-publications",
+          title: "Publications",
+          description: "",
+          section: "Navigation",
+          handler: () => {
             window.location.href = "/lab_ecofisio_uc/publications/";
           },
         },{id: "nav-projects",
@@ -22,6 +29,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/lab_ecofisio_uc/projects/";
+          },
+        },{id: "nav-integrantes",
+          title: "Integrantes",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/lab_ecofisio_uc/es/people/";
           },
         },{id: "nav-people",
           title: "People",
