@@ -3,7 +3,7 @@ layout: page
 title: Proyectos
 permalink: /es/projects/
 lang: es
-description: Nuestras principales líneas de investigación
+description:
 nav: true
 nav_order: 3
 display_categories: [research]

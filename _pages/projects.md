@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Our main areas of research
+description:
 lang: en
 nav: true
 nav_order: 3
