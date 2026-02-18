@@ -14,11 +14,11 @@
 .navbar {
   background: linear-gradient(
     90deg,
-    rgba(68, 1, 84, 0.85) 0%,      // Deep purple (viridis start)
-    rgba(59, 82, 139, 0.85) 25%,   // Blue-purple
-    rgba(33, 145, 140, 0.85) 50%,  // Teal
-    rgba(94, 201, 98, 0.85) 75%,   // Green
-    rgba(253, 231, 37, 0.85) 100%  // Yellow (viridis end)
+    rgba(68, 1, 84, 0.75) 0%,      // Deep purple (viridis start)
+    rgba(59, 82, 139, 0.75) 25%,   // Blue-purple
+    rgba(33, 145, 140, 0.75) 50%,  // Teal
+    rgba(94, 201, 98, 0.75) 75%,   // Green
+    rgba(253, 231, 37, 0.75) 100%  // Yellow (viridis end)
   ) !important;
   backdrop-filter: blur(3px);
 }
