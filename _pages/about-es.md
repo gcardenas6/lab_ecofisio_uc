@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Sobre nosotros
-permalink: /es/
+permalink: /es/home
 lang: es
 subtitle: <strong>Enrico Rezende</strong>
 
