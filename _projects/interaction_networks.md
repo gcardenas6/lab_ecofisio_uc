@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Plant-Animal Interaction Networks
+title: Ecological Networks 
 description: Evaluating how ecological networks restructure under climate change
 img: assets/img/projects/networks.jpg
 importance: 3
@@ -9,4 +9,4 @@ category: research
 
 ## Overview
 
-We study the architecture and dynamics of plant-animal interaction networks, evaluating how these networks restructure under climate change scenarios. Our research analyzes how mutualistic relationships and trophic networks are affected by climate change.
+En paralelo trabajamos con ecología de comunidades, sea analizando cómo varía su composición funcional o sus redes de interacciones. En la actualidad, desarrollamos métodos analíticos para estudiar la estructura de redes complejas e intentar proyectar de cómo el calentamiento global debe afectar las redes ecológicas tróficas y de polinización alrededor del planeta. En colaboración con grupos de investigación internacionales, analizamos cómo las temperaturas proyectadas para 2100 deben afectar las redes de polinización en Europa. En el futuro pretendemos ampliar estos análisis para sistemas en otros continentes incluyendo Sudamérica, lo que involucraría describir nuevas redes empíricas en Chile en colaboración con otros grupos de investigación y estudiantes.
