@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /integrantes/
-title: Integrantes
+permalink: /people/
+title: People
 nav: true
 nav_order: 4
 ---
@@ -194,5 +194,6 @@ nav_order: 4
 
 ## Lab Alumni
 
-- Gabriela Poblete (años)
-- Amalia Baeza (años)
+---
+
+## Visiting researchers
