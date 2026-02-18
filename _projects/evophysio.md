@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Evolution of Integrated Phenotypes 
-description: Understanding how ectothermic organisms respond to temperature variations
+description: 
 img: assets/img/projects/evophysio.jpg
 importance: 1
 category: research

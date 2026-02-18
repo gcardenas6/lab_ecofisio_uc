@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thermal Biology and Climate Change 
-description: Predicting how organisms adapt and survive under global warming scenarios
+description: 
 img: assets/img/projects/thermalbio.jpg
 importance: 2
 category: research
@@ -9,4 +9,4 @@ category: research
 
 ## Overview
 
-Las características fenotípicas no evolucionan de forma independiente, sea por restricciones funcionales o por factores genéticos, lo que restringe el número de posibles respuestas evolutivas frente a presiones selectivas. En nuestro laboratorio estudiamos cómo distintos linajes responden a distintas presiones selectivas y cómo emergen fenotipos integrados en respuesta a la selección natural. Para ello hemos empleado aproximaciones empíricas y comparativa, y hemos estudiado una gran variedad de organismos que incluyen insectos, peces, anfibios, aves, mamíferos e incluso dinosaurios.
+Una de las grandes incógnitas de la actualidad es cómo van a responder distintos organismos al cambio climático. Con nuestros colaboradores, hemos desarrollado nuevas aproximaciones para estimar el rango de termotolerancia de distintos linajes, y en la actualidad nos enfocamos en desarrollar modelos mecanísticos que permitan predecir, en base a rasgos fisiológicos y de historia de vida estimados en el laboratorio, la resiliencia de distintos linajes al cambio ambiental y su potencial distribución en escenarios futuros.

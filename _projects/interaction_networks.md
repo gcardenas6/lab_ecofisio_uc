@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ecological Networks 
-description: Evaluating how ecological networks restructure under climate change
+description: 
 img: assets/img/projects/networks.jpg
 importance: 3
 category: research
