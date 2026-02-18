@@ -74,7 +74,7 @@ nav_order: 4
 
 ---
 
-## Estudiantes de posgrado
+## Estudiantes de postgrado
 
 <div class="row">
   <div class="col-sm-6 col-md-4 mb-4">
