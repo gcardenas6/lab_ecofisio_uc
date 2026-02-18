@@ -14,13 +14,13 @@
 .navbar {
   background: linear-gradient(
     90deg,
-    rgba(75, 20, 120, 0.85) 0%,     // Dark purple (lighter start)
-    rgba(140, 35, 135, 0.85) 20%,   // Purple-magenta
-    rgba(200, 65, 110, 0.85) 35%,   // Pink-magenta
-    rgba(245, 130, 90, 0.85) 50%,   // Coral-orange
-    rgba(252, 210, 160, 0.85) 70%,  // Light peach
-    rgba(255, 240, 220, 0.85) 85%,  // Cream
-    rgba(255, 250, 245, 0.85) 100%  // Off-white
+    rgba(75, 20, 120, 0.8) 0%,     // Dark purple (lighter start)
+    rgba(140, 35, 135, 0.8) 20%,   // Purple-magenta
+    rgba(200, 65, 110, 0.8) 35%,   // Pink-magenta
+    rgba(245, 130, 90, 0.8) 50%,   // Coral-orange
+    rgba(252, 210, 160, 0.8) 70%,  // Light peach
+    rgba(255, 240, 220, 0.8) 85%,  // Cream
+    rgba(255, 250, 245, 0.8) 100%  // Off-white
   ) !important;
   backdrop-filter: blur(3px);
 }
