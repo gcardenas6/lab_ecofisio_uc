@@ -2,6 +2,7 @@
 layout: about
 title: Home
 permalink: /
+lang: en
 subtitle: <strong>Enrico Rezende</strong>
 
 profile:

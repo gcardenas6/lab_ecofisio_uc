@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /people/
-title: People
-lang: en
+permalink: /es/people/
+lang: es
+title: Integrantes
 nav: true
 nav_order: 4
 ---
@@ -20,7 +20,7 @@ nav_order: 4
 }
 </style>
 
-## Principal Investigator
+## Investigador principal
 
 <div class="row">
   <div class="col-sm-6 col-md-4 mb-4">

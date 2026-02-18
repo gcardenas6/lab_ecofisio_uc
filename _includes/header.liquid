@@ -135,6 +135,20 @@
               </button>
             </li>
           {% endif %}
+          
+          <!-- Language Switcher -->
+          <li class="nav-item">
+            {% if page.lang == 'es' %}
+              <a class="nav-link" href="{{ page.url | remove: '/es' }}" title="Switch to English">
+                EN
+              </a>
+            {% else %}
+              <a class="nav-link" href="/es{{ page.url }}" title="Cambiar a Español">
+                ES
+              </a>
+            {% endif %}
+          </li>
+          
         </ul>
       </div>
     </div>
