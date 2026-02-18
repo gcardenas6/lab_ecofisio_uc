@@ -46,7 +46,9 @@ nav_order: 4
       <div class="card-body">
         <h5 class="card-title">Avia González</h5>
         <p class="card-text small">
-        I work in the lab supporting the technical and administrative execution of research projects, including the planification and coordination of fieldwork. My interests lie in science communication and the development of projects with a narrative and audiovisual approach. I am motivated to strengthen the link between science and society.</p>
+        Trabajo en el laboratorio apoyando la ejecución técnica y administrativa de proyectos de investigación, incluyendo la planificación y coordinación de trabajos en terreno.
+        Mis intereses se enfocan en la divulgación científica y el desarrollo de proyectos con enfoque narrativo y audiovisual.
+        Me motiva fortalecer la vinculación entre ciencia y sociedad.</p>
         <p class="card-text"><a href="mailto:aviagonzalez@gmail.com">aviagonzalez@gmail.com</a></p>
       </div>
     </div>
