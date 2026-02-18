@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Home
-permalink: /home
+permalink: /
 lang: en
 subtitle: <strong>Enrico Rezende</strong>
 
