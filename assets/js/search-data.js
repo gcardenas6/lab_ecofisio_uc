@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/lab_ecofisio_uc/";
     },
-  },{id: "nav-publicaciones",
-          title: "Publicaciones",
+  },{id: "nav-publications",
+          title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/lab_ecofisio_uc/publicaciones/";
+            window.location.href = "/lab_ecofisio_uc/publications/";
           },
-        },{id: "nav-líneas-de-investigación",
-          title: "Líneas de investigación",
+        },{id: "nav-projects",
+          title: "Projects",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/lab_ecofisio_uc/lineas/";
+            window.location.href = "/lab_ecofisio_uc/projects/";
           },
         },{id: "nav-integrantes",
           title: "Integrantes",
