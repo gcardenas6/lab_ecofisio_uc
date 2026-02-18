@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/lab_ecofisio_uc/";
     },
-  },{id: "nav-publications",
-          title: "Publications",
+  },{id: "nav-publicaciones",
+          title: "Publicaciones",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -22,6 +22,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/lab_ecofisio_uc/publications/";
+          },
+        },{id: "nav-proyectos",
+          title: "Proyectos",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/lab_ecofisio_uc/es/projects/";
           },
         },{id: "nav-projects",
           title: "Projects",
