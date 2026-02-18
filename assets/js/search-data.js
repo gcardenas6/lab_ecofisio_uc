@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab_ecofisio_uc/es/projects/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "",
+        },{id: "nav-research-lines",
+          title: "Research Lines",
+          description: "Our main areas of research",
           section: "Navigation",
           handler: () => {
             window.location.href = "/lab_ecofisio_uc/projects/";
@@ -67,21 +67,21 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-climate-change-amp-species-responses",
+          title: 'Climate Change &amp;amp; Species Responses',
+          description: "Predicting how organisms adapt and survive under global warming scenarios",
           section: "Projects",handler: () => {
-              window.location.href = "/lab_ecofisio_uc/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/lab_ecofisio_uc/projects/climate_change/";
+            },},{id: "projects-plant-animal-interaction-networks",
+          title: 'Plant-Animal Interaction Networks',
+          description: "Evaluating how ecological networks restructure under climate change",
           section: "Projects",handler: () => {
-              window.location.href = "/lab_ecofisio_uc/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/lab_ecofisio_uc/projects/interaction_networks/";
+            },},{id: "projects-thermal-ecology-amp-evolutionary-physiology",
+          title: 'Thermal Ecology &amp;amp; Evolutionary Physiology',
+          description: "Understanding how ectothermic organisms respond to temperature variations",
           section: "Projects",handler: () => {
-              window.location.href = "/lab_ecofisio_uc/projects/3_project/";
+              window.location.href = "/lab_ecofisio_uc/projects/thermal_ecology/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
