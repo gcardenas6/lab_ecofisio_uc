@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Líneas de investigación
-permalink: /lineas/
+title: Projects
+permalink: /projects/
 description: 
 nav: true
 nav_order: 3
