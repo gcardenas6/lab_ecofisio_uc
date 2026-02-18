@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /es/publications/
-title: Publications
+title: Publicaciones
 lang: es
 description:
 nav: true

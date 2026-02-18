@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Sobre nosotros
-permalink: /lab_ecofisio_uc/es
+permalink: /es/
 lang: es
 subtitle: <strong>Enrico Rezende</strong>
 
