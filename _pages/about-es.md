@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Sobre nosotros
+title: Title
 permalink: /es/
 lang: es
 subtitle: <strong>Enrico Rezende</strong>
