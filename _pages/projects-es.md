@@ -3,12 +3,14 @@ layout: page
 title: Proyectos
 permalink: /es/projects/
 lang: es
-description: 
+description: Nuestras principales líneas de investigación
 nav: true
 nav_order: 3
 display_categories: [research]
 horizontal: false
 ---
+
+Nuestra investigación aborda cómo los organismos responden al cambio ambiental a través de tres líneas de investigación interconectadas. Haz clic en cada proyecto para conocer más sobre nuestro trabajo, métodos y hallazgos.
 
 <!-- pages/projects.md -->
 <div class="projects">

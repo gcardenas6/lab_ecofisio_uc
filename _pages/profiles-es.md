@@ -57,7 +57,7 @@ nav_order: 4
 
 ---
 
-## Postdoc researcher
+## Investigadores postdoctorado
 
 <div class="row">
   <div class="col-sm-6 col-md-4 mb-4">
@@ -74,7 +74,7 @@ nav_order: 4
 
 ---
 
-## Graduate students
+## Estudiantes de posgrado
 
 <div class="row">
   <div class="col-sm-6 col-md-4 mb-4">
@@ -146,7 +146,7 @@ nav_order: 4
 
 ---
 
-## Undergraduate students
+## Estudiantes de pregrado
 
 <div class="row">
   <div class="col-sm-6 col-md-4 mb-4">
@@ -164,8 +164,8 @@ nav_order: 4
     <div class="card team-card hoverable">
       <img src="{{ '/assets/img/benjamin_davis.jpeg' | relative_url }}" alt="Benjamin Davis" class="card-img-top">
       <div class="card-body">
-        <h5 class="card-title">Benjamín Davis es god</h5>
-        <p class="card-text small">Texto</p>
+        <h5 class="card-title">Benjamín Davis</h5>
+        <p class="card-text small">Benjamín Davis es god</p>
         <p class="card-text"><a href="mailto:b.davis.simian@estudiante.uc.cl">b.davis.simian@estudiante.uc.cl</a></p>
       </div>
     </div>
@@ -199,4 +199,4 @@ nav_order: 4
 
 ---
 
-## Visiting researchers
+## Investigadores visitantes
