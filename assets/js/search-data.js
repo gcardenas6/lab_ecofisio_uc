@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab_ecofisio_uc/projects/";
           },
-        },{id: "nav-integrantes",
-          title: "Integrantes",
+        },{id: "nav-people",
+          title: "People",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/lab_ecofisio_uc/integrantes/";
+            window.location.href = "/lab_ecofisio_uc/people/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
