@@ -125,9 +125,7 @@ nav_order: 4
       <div class="card-body">
         <h5 class="card-title">Jahir Muñoz</h5>
         <p class="card-text small">
-        I am a Biology and Natural Sciences teacher, graduated from the Metropolitan University of Educational Sciences (UMCE), and currently in my final year of a PhD in Integrative Ecology at Universidad Mayor.
-        My dissertation focuses on evaluating the influence of the gut microbiome on the physiological-behavioral performance and biological fitness of **Drosophila**. My project encompasses topics such as nutritional ecology, phenotypic plasticity, and symbiosis, through experiments that assess the adaptive response of the holobiont. Therefore, my main areas of interest are ecophysiology, behavioral ecology, evolutionary ecology, and microbial ecology.
-        </p>
+        I am a Biology and Natural Sciences teacher, graduated from the Universidad Metropolitana de Ciencias de la Educación (UMCE), and currently pursuing a PhD in Integrative Ecology at Universidad Mayor. My dissertation evaluates the influence of the gut microbiome on the physiological-behavioral performance and biological fitness of Drosophila. My project covers topics such as nutritional ecology, phenotypic plasticity, and symbiosis, experimentally assessing the adaptive response of the holobiont. My main areas of interest are ecophysiology, behavioral ecology, evolutionary ecology, and microbial ecology.</p>
         <p class="card-text"><a href="mailto:jahir.munoz@mayor.cl">jahir.munoz@mayor.cl</a></p>
       </div>
     </div>
