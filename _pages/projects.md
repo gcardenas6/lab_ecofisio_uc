@@ -3,6 +3,7 @@ layout: page
 title: Research Lines
 permalink: /projects/
 description: Our main areas of research
+lang: en
 nav: true
 nav_order: 3
 display_categories: [research]
