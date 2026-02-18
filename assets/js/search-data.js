@@ -67,21 +67,21 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-climate-change-amp-species-responses",
-          title: 'Climate Change &amp;amp; Species Responses',
-          description: "Predicting how organisms adapt and survive under global warming scenarios",
+          section: "News",},{id: "projects-evolution-of-integrated-phenotypes",
+          title: 'Evolution of Integrated Phenotypes',
+          description: "Understanding how ectothermic organisms respond to temperature variations",
           section: "Projects",handler: () => {
-              window.location.href = "/lab_ecofisio_uc/projects/climate_change/";
-            },},{id: "projects-plant-animal-interaction-networks",
-          title: 'Plant-Animal Interaction Networks',
+              window.location.href = "/lab_ecofisio_uc/projects/evophysio/";
+            },},{id: "projects-ecological-networks",
+          title: 'Ecological Networks',
           description: "Evaluating how ecological networks restructure under climate change",
           section: "Projects",handler: () => {
               window.location.href = "/lab_ecofisio_uc/projects/interaction_networks/";
-            },},{id: "projects-thermal-ecology-amp-evolutionary-physiology",
-          title: 'Thermal Ecology &amp;amp; Evolutionary Physiology',
-          description: "Understanding how ectothermic organisms respond to temperature variations",
+            },},{id: "projects-thermal-biology-and-climate-change",
+          title: 'Thermal Biology and Climate Change',
+          description: "Predicting how organisms adapt and survive under global warming scenarios",
           section: "Projects",handler: () => {
-              window.location.href = "/lab_ecofisio_uc/projects/thermal_ecology/";
+              window.location.href = "/lab_ecofisio_uc/projects/thermalbio/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
