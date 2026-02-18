@@ -14,11 +14,11 @@
 .navbar {
   background: linear-gradient(
     90deg,
-    rgba(0, 0, 4, 0.85) 0%,        // Black
-    rgba(81, 18, 124, 0.85) 25%,   // Purple
-    rgba(182, 54, 121, 0.85) 50%,  // Magenta
-    rgba(251, 136, 97, 0.85) 75%,  // Coral
-    rgba(252, 253, 191, 0.85) 100% // Cream
+    rgba(67, 15, 102, 0.75) 0%,   // Purple
+    rgba(173, 49, 113, 0.75) 25%,  // Magenta
+    rgba(251, 136, 97, 0.75) 50%,  // Coral
+    rgba(252, 253, 191, 0.75) 75% // Cream
+    rgba(249, 250, 221, 0.75) 100%
   ) !important;
   backdrop-filter: blur(3px);
 }
