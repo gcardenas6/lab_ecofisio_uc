@@ -14,13 +14,13 @@
 .navbar {
   background: linear-gradient(
     90deg,
-    rgba(59, 16, 95, 0.8) 0%,      // Dark purple (keep)
-    rgba(95, 25, 85, 0.8) 20%,     // Slightly warmer purple
-    rgba(185, 50, 70, 0.8) 35%,    // Brick red (less magenta)
-    rgba(235, 110, 75, 0.8) 50%,   // Burnt orange-red
-    rgba(250, 185, 125, 0.8) 70%,  // Amber-peach
-    rgba(255, 232, 200, 0.8) 85%,  // Warm cream
-    rgba(255, 248, 240, 0.8) 100%  // Warm white
+    rgba(50, 14, 80, 0.75) 0%,      // Darker purple (dimmer)
+    rgba(85, 22, 75, 0.75) 18%,     // Dimmer warmer purple
+    rgba(165, 45, 65, 0.75) 30%,    // Dimmer brick red
+    rgba(210, 95, 70, 0.75) 45%,    // Lighter burnt orange (starts earlier)
+    rgba(240, 170, 115, 0.75) 65%,  // Amber-peach (lighter, earlier)
+    rgba(250, 220, 185, 0.75) 80%,  // Warm cream (earlier)
+    rgba(252, 242, 230, 0.75) 100%  // Soft warm white
   ) !important;
   backdrop-filter: blur(3px);
 }
