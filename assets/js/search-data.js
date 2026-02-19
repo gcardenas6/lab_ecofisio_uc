@@ -56,16 +56,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/lab_ecofisio_uc/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/lab_ecofisio_uc/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-rellenar-con-noticias",
+          title: 'Rellenar con noticias',
           description: "",
           section: "News",},{id: "projects-evolution-of-integrated-phenotypes",
           title: 'Evolution of Integrated Phenotypes',
