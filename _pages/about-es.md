@@ -34,28 +34,29 @@ Mi investigación se centra en la ecología térmica y la fisiología evolutiva,
 
 Además, estudio la arquitectura y dinámica de las redes de interacciones planta-animal, evaluando cómo estas redes se reestructuran bajo escenarios de cambio climático. También analizo cómo las relaciones mutualistas y las redes tróficas se ven afectadas por el cambio climático, aportando conocimientos fundamentales para la conservación de la biodiversidad y la comprensión de los impactos ecológicos del calentamiento global. Mi investigación combina trabajo de campo, experimentos de laboratorio y análisis filogenéticos para ofrecer una visión integral de los mecanismos subyacentes a la adaptación y evolución de los organismos. 
 
-<div class="instagram-box mt-5 mb-5">
-    <div class="row align-items-center">
-        <div class="col-md-3 text-center">
-            <i class="fa-brands fa-instagram fa-4x" style="color: #E4405F;"></i>
+<div class="instagram-mini mt-4 mb-4 p-3">
+    <div class="d-flex align-items-center justify-content-between">
+        <div class="d-flex align-items-center">
+            <i class="fa-brands fa-instagram fa-2x mr-3" style="color: #E4405F;"></i>
+            <span><strong>Síguenos en Instagram</strong> para ver más de nuestro trabajo</span>
         </div>
-        <div class="col-md-6">
-            <h4 class="mb-2">Síguenos en Instagram</h4>
-            <p class="mb-0">Mantente al día con nuestras investigaciones, actividades de campo y vida en el laboratorio.</p>
-        </div>
-        <div class="col-md-3 text-center">
-            <a href="https://www.instagram.com/lab.ecofisio.uc" target="_blank" class="btn btn-primary">
-                @lab.ecofisio.uc
-            </a>
-        </div>
+        <a href="https://www.instagram.com/lab.ecofisio.uc" target="_blank" class="btn btn-sm btn-outline-secondary">
+            @lab.ecofisio.uc
+        </a>
     </div>
 </div>
 
-<div class="instagram-callout text-center mt-5 mb-5 p-4">
-    <i class="fa-brands fa-instagram fa-3x mb-3" style="color: #E4405F;"></i>
-    <h3>Síguenos en Instagram</h3>
-    <p class="lead">Investigación en campo, laboratorio y más</p>
-    <a href="https://www.instagram.com/lab.ecofisio.uc" target="_blank" class="btn btn-lg btn-outline-primary">
-        <i class="fa-brands fa-instagram"></i> @lab.ecofisio.uc
+<div class="instagram-inline text-center mt-3 mb-3 py-2">
+    <i class="fa-brands fa-instagram mr-2" style="color: #E4405F;"></i>
+    <span>Síguenos en Instagram: </span>
+    <a href="https://www.instagram.com/lab.ecofisio.uc" target="_blank" style="font-weight: 600; color: #E4405F;">
+        @lab.ecofisio.uc
+    </a>
+</div>
+
+<div class="text-center my-3">
+    <a href="https://www.instagram.com/lab.ecofisio.uc" target="_blank" style="text-decoration: none; color: #E4405F; font-size: 0.95rem;">
+        <i class="fa-brands fa-instagram fa-lg mr-2"></i>
+        <strong>@lab.ecofisio.uc</strong> en Instagram
     </a>
 </div>

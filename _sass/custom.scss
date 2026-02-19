@@ -108,48 +108,33 @@
 }
 
 // Instagram
-// Instagram callout box
-.instagram-callout {
-  background: linear-gradient(135deg, rgba(225, 48, 108, 0.05), rgba(193, 53, 132, 0.05), rgba(131, 58, 180, 0.05));
-  border: 2px solid rgba(225, 48, 108, 0.2);
-  border-radius: 12px;
-  transition: all 0.3s ease;
-  
-  &:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 8px 20px rgba(225, 48, 108, 0.15);
-  }
+// Compact Instagram box
+.instagram-mini {
+  background-color: rgba(245, 245, 245, 0.6);
+  border-left: 3px solid #E4405F;
+  border-radius: 6px;
+  font-size: 0.95rem;
 }
 
-.instagram-callout h3 {
-  font-weight: 600;
-  margin-bottom: 0.5rem;
-}
-
-.instagram-callout .lead {
-  color: var(--global-text-color-light);
-  margin-bottom: 1.5rem;
-}
-
-// Instagram box (horizontal layout)
-.instagram-box {
-  background-color: rgba(245, 245, 245, 0.5);
-  border-left: 4px solid #E4405F;
-  padding: 2rem;
-  border-radius: 8px;
-}
-
-.instagram-box h4 {
-  font-weight: 600;
-}
-
-.instagram-box .btn-primary {
-  background-color: #E4405F;
+.instagram-mini .btn-outline-secondary {
   border-color: #E4405F;
-  font-weight: 600;
+  color: #E4405F;
+  font-weight: 500;
+  white-space: nowrap;
   
   &:hover {
-    background-color: #d62976;
-    border-color: #d62976;
+    background-color: #E4405F;
+    color: white;
   }
+}
+
+.instagram-mini i {
+  flex-shrink: 0;
+}
+
+// smaller
+.instagram-inline {
+  border-top: 1px solid rgba(0,0,0,0.1);
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+  font-size: 0.9rem;
 }
