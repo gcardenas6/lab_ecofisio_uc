@@ -177,7 +177,7 @@ nav_order: 4
       <img src="{{ '/assets/img/benjamin_davis.jpeg' | relative_url }}" alt="Benjamin Davis" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Benjamín Davis</h5>
-        <p class="card-text small">Benjamín Davis es god</p>
+        <p class="card-text small">Estudio Biología Marina y mi principal interés es explorar la ecología fisiológica de especies clave frente a cambios en sus condiciones ambientales. Me motiva la posibilidad de investigar patrones evolutivos y biogeográficos en función a sus límites fisiológicos, con la idea de comprender mejor cómo la vida se adapta a un entorno dinámico</p>
         <p class="card-text"><a href="mailto:b.davis.simian@estudiante.uc.cl">b.davis.simian@estudiante.uc.cl</a></p>
       </div>
     </div>
