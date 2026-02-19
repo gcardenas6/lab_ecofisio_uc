@@ -30,6 +30,14 @@ nav_order: 4
         <h5 class="card-title">Enrico Rezende</h5>
         <p class="card-text small">Text.</p>
         <p class="card-text"><a href="mailto:enrico.rezende@uc.cl">enrico.rezende@uc.cl</a></p>
+        <div class="academic-icons text-center my-2">
+        <a href="https://orcid.org/0000-0002-6245-9605" target="_blank" title="ORCID" class="academic-link">
+          <i class="fa-brands fa-orcid fa-2x"></i>
+        </a>
+        <a href="https://scholar.google.com/citations?user=n_6ZnroAAAAJ&hl=en&oi=ao" target="_blank" title="Google Scholar" class="academic-link">
+          <i class="fa-solid fa-graduation-cap fa-2x"></i>
+        </a>
+      </div>
       </div>
     </div>
   </div>
