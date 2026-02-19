@@ -73,6 +73,17 @@ nav_order: 4
 
   <div class="col-sm-6 col-md-4 mb-4">
     <div class="card team-card hoverable">
+      <img src="{{ '/assets/img/grisel_cavieres.jpg' | relative_url }}" alt="Grisel Cavieres" class="card-img-top">
+      <div class="card-body">
+        <h5 class="card-title">Grisel Cavieres</h5>
+        <p class="card-text small">Text.</p>
+        <p class="card-text"><a href="mailto:gcavieres@udec.cl">gcavieres@udec.cl</a></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 col-md-4 mb-4">
+    <div class="card team-card hoverable">
       <img src="{{ '/assets/img/ignacio_peralta_maraver2.jpg' | relative_url }}" alt="Ignacio Peralta-Maraver" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Ignacio Peralta Maraver</h5>
