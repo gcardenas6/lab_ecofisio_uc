@@ -13,7 +13,6 @@ permalink: /es/projects/mosca_cientifica/
 Mosca Científica es...
 
 <div class="row mt-4">
-    <!-- Video on the left -->
     <div class="col-md-8">
         <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ek3iC73ocEg" allowfullscreen></iframe>
