@@ -69,8 +69,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/lab_ecofisio_uc/projects/evophysio/";
-            },},{id: "projects-ecological-networks",
-          title: 'Ecological Networks',
+            },},{id: "projects-redes-ecológicas",
+          title: 'Redes Ecológicas',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/lab_ecofisio_uc/es/projects/interaction_networks/";
@@ -79,8 +79,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/lab_ecofisio_uc/projects/interaction_networks/";
-            },},{id: "projects-thermal-biology-and-niche-models",
-          title: 'Thermal Biology and Niche Models',
+            },},{id: "projects-biología-térmica-y-modelos-de-nicho",
+          title: 'Biología Térmica y Modelos de nicho',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/lab_ecofisio_uc/es/projects/thermalbio/";
