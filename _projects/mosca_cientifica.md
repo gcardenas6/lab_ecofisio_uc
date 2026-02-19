@@ -14,13 +14,13 @@ Mosca Científica is...
 
 <div class="row mt-4">
     <!-- Video on the left -->
-    <div class="col-md-6">
+    <div class="col-md-8">
         <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ek3iC73ocEg" allowfullscreen></iframe>
         </div>
     </div>
     <!-- Social media box on the right -->
-    <div class="col-md-6 d-flex align-items-center">
+    <div class="col-md-4 d-flex align-items-center">
         <div class="social-box p-4 w-100">
             <h3 class="text-center mb-4">Check our socials!</h3>
             <div class="social-icons text-center">
