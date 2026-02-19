@@ -60,7 +60,7 @@ nav_order: 4
 <div class="row">
   <div class="col-sm-6 col-md-4 mb-4">
     <div class="card team-card hoverable">
-      <img src="{{ '/assets/img/mauricio_carter.jpg' | relative_url }}" alt="Mauricio Carter" class="card-img-top">
+      <img src="{{ '/assets/img/mauricio_carter2.png' | relative_url }}" alt="Mauricio Carter" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Mauricio Carter</h5>
         <p class="card-text small">Text.</p>
@@ -68,9 +68,7 @@ nav_order: 4
       </div>
     </div>
   </div>
-</div>
 
-<div class="row">
   <div class="col-sm-6 col-md-4 mb-4">
     <div class="card team-card hoverable">
       <img src="{{ '/assets/img/ignacio_peralta_maraver2.jpg' | relative_url }}" alt="Ignacio Peralta-Maraver" class="card-img-top">
