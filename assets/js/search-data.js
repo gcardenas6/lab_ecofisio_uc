@@ -59,7 +59,12 @@ ninja.data = [{
             },},{id: "news-rellenar-con-noticias",
           title: 'Rellenar con noticias',
           description: "",
-          section: "News",},{id: "projects-evolution-of-integrated-phenotypes",
+          section: "News",},{id: "projects-evolución-de-fenotipos-integrados",
+          title: 'Evolución de Fenotipos Integrados',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/lab_ecofisio_uc/es/projects/evophysio/";
+            },},{id: "projects-evolution-of-integrated-phenotypes",
           title: 'Evolution of Integrated Phenotypes',
           description: "",
           section: "Projects",handler: () => {
@@ -68,7 +73,17 @@ ninja.data = [{
           title: 'Ecological Networks',
           description: "",
           section: "Projects",handler: () => {
+              window.location.href = "/lab_ecofisio_uc/es/projects/interaction_networks/";
+            },},{id: "projects-ecological-networks",
+          title: 'Ecological Networks',
+          description: "",
+          section: "Projects",handler: () => {
               window.location.href = "/lab_ecofisio_uc/projects/interaction_networks/";
+            },},{id: "projects-thermal-biology-and-niche-models",
+          title: 'Thermal Biology and Niche Models',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/lab_ecofisio_uc/es/projects/thermalbio/";
             },},{id: "projects-thermal-biology-and-niche-models",
           title: 'Thermal Biology and Niche Models',
           description: "",
