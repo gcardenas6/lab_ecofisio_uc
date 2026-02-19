@@ -55,14 +55,27 @@ nav_order: 4
 
 ---
 
-## Postdoc researcher
+## Associated Researchers 
+
+<div class="row">
+  <div class="col-sm-6 col-md-4 mb-4">
+    <div class="card team-card hoverable">
+      <img src="{{ '/assets/img/mauricio_carter.jpg' | relative_url }}" alt="Mauricio Carter" class="card-img-top">
+      <div class="card-body">
+        <h5 class="card-title">Mauricio Carter</h5>
+        <p class="card-text small">Text.</p>
+        <p class="card-text"><a href="mailto:mauricio.carter@unab.cl">mauricio.carter@unab.cl</a></p>
+      </div>
+    </div>
+  </div>
+</div>
 
 <div class="row">
   <div class="col-sm-6 col-md-4 mb-4">
     <div class="card team-card hoverable">
       <img src="{{ '/assets/img/ignacio_peralta_maraver2.jpg' | relative_url }}" alt="Ignacio Peralta-Maraver" class="card-img-top">
       <div class="card-body">
-        <h5 class="card-title">Ignacio Peralta-Maraver</h5>
+        <h5 class="card-title">Ignacio Peralta Maraver</h5>
         <p class="card-text small">Text.</p>
         <p class="card-text"><a href="mailto:peraltamaraver@ugr.es">peraltamaraver@ugr.es</a></p>
       </div>
@@ -125,7 +138,7 @@ nav_order: 4
       <div class="card-body">
         <h5 class="card-title">Jahir Muñoz Hernández</h5>
         <p class="card-text small">
-        I am a Biology and Natural Sciences teacher, graduated from the Universidad Metropolitana de Ciencias de la Educación (UMCE), and currently pursuing a PhD in Integrative Ecology at Universidad Mayor. My dissertation evaluates the influence of the gut microbiome on the physiological-behavioral performance and biological fitness of <i>Drosophila</i>. My project covers topics such as nutritional ecology, phenotypic plasticity, and symbiosis, experimentally assessing the adaptive response of the holobiont. My main areas of interest are ecophysiology, behavioral ecology, evolutionary ecology, and microbial ecology.</p>
+        I am a Biology and Natural Sciences teacher, graduated from the Universidad Metropolitana de Ciencias de la Educación (UMCE), and currently pursuing a PhD in Integrative Ecology at Universidad Mayor. My thesis evaluates the influence of the gut microbiome on the physiological-behavioral performance and biological fitness of <i>Drosophila</i>. My project covers topics such as nutritional ecology, phenotypic plasticity, and symbiosis, experimentally assessing the adaptive response of the holobiont. My main areas of interest are ecophysiology, behavioral ecology, evolutionary ecology, and microbial ecology.</p>
         <p class="card-text"><a href="mailto:jahir.munoz@mayor.cl">jahir.munoz@mayor.cl</a></p>
       </div>
     </div>
