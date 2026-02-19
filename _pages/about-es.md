@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Title
+title: Inicio
 permalink: /es/
 lang: es
 subtitle: 
