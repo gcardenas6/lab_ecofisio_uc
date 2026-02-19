@@ -134,7 +134,7 @@ nav_order: 4
     <div class="card team-card hoverable">
       <img src="{{ '/assets/img/jahir_munoz.jpeg' | relative_url }}" alt="Jahir Muñoz" class="card-img-top">
       <div class="card-body">
-        <h5 class="card-title">Jahir Muñoz Hernández</h5>
+        <h5 class="card-title">Jahir Muñoz Hernández es god</h5>
         <p class="card-text small">
         I am a Biology and Natural Sciences teacher, graduated from the Universidad Metropolitana de Ciencias de la Educación (UMCE), and currently pursuing a PhD in Integrative Ecology at Universidad Mayor. My thesis evaluates the influence of the gut microbiome on the physiological-behavioral performance and biological fitness of <i>Drosophila</i>. My project covers topics such as nutritional ecology, phenotypic plasticity, and symbiosis, experimentally assessing the adaptive response of the holobiont. My main areas of interest are ecophysiology, behavioral ecology, evolutionary ecology, and microbial ecology.</p>
         <p class="card-text"><a href="mailto:jahir.munoz@mayor.cl">jahir.munoz@mayor.cl</a></p>
@@ -175,7 +175,7 @@ nav_order: 4
       <img src="{{ '/assets/img/benjamin_davis.jpeg' | relative_url }}" alt="Benjamin Davis" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Benjamín Davis</h5>
-        <p class="card-text small">Benjamín Davis es god</p>
+        <p class="card-text small">As a Marine Biology student, my main interest lies in exploring the physiological ecology of key species in response to environmental shifts. I am motivated to research evolutionary and biogeographical patterns based on physiological thresholds, aiming to better understand how life adapts to a dynamic environment.</p>
         <p class="card-text"><a href="mailto:b.davis.simian@estudiante.uc.cl">b.davis.simian@estudiante.uc.cl</a></p>
       </div>
     </div>
