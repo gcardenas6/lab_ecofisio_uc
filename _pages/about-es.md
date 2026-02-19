@@ -33,10 +33,3 @@ latest_posts:
 Mi investigación se centra en la ecología térmica y la fisiología evolutiva, abordando cómo los organismos ectotermos responden a las variaciones en su ambiente térmico. Utilizo una combinación de estudios experimentales y modelos teóricos para analizar las respuestas fisiológicas y conductuales a la temperatura en distintas especies, que incluyen organismos tanto acuáticos como terrestres. Un aspecto crucial de mi trabajo es la exploración de las bases mecanísticas de la adaptación térmica, investigando cómo las variaciones genéticas afectan la tolerancia al calor y al frío. Esto permite predecir las respuestas de las especies ante el cambio climático y comprender los mecanismos de plasticidad fenotípica y adaptación evolutiva que podrían facilitar la supervivencia de distintos organismos en diferentes ambientes. 
 
 Además, estudio la arquitectura y dinámica de las redes de interacciones planta-animal, evaluando cómo estas redes se reestructuran bajo escenarios de cambio climático. También analizo cómo las relaciones mutualistas y las redes tróficas se ven afectadas por el cambio climático, aportando conocimientos fundamentales para la conservación de la biodiversidad y la comprensión de los impactos ecológicos del calentamiento global. Mi investigación combina trabajo de campo, experimentos de laboratorio y análisis filogenéticos para ofrecer una visión integral de los mecanismos subyacentes a la adaptación y evolución de los organismos. 
-
-<div class="text-center mt-5 mb-4">
-    <a href="https://www.instagram.com/lab.ecofisio.uc" target="_blank" style="text-decoration: none; color: #E4405F; font-size: 0.95rem;">
-        <i class="fa-brands fa-instagram fa-lg mr-2"></i>
-        <strong>@lab.ecofisio.uc</strong> en Instagram
-    </a>
-</div>
