@@ -6,7 +6,7 @@ description:
 lang: en
 nav: true
 nav_order: 3
-display_categories: [research]
+display_categories: [research, outreach]
 horizontal: false
 ---
 
