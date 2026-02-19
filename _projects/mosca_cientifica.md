@@ -12,10 +12,27 @@ permalink: /projects/mosca_cientifica/
 ## Overview
 Mosca Científica is...
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row mt-4">
+    <!-- Video on the left -->
+    <div class="col-md-6">
         <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ek3iC73ocEg" allowfullscreen></iframe>
+        </div>
+    </div>
+    <!-- Social media box on the right -->
+    <div class="col-md-6 d-flex align-items-center">
+        <div class="social-box p-4 w-100">
+            <h3 class="text-center mb-4">Check our socials!</h3>
+            <div class="social-icons text-center">
+                <a href="https://www.instagram.com/moscacientifica/" target="_blank" class="social-link">
+                    <i class="fa-brands fa-instagram fa-3x"></i>
+                    <p class="mt-2">@moscacientifica</p>
+                </a>
+                <a href="https://www.youtube.com/@moscacientifica" target="_blank" class="social-link">
+                    <i class="fa-brands fa-youtube fa-3x"></i>
+                    <p class="mt-2">Mosca Científica</p>
+                </a>
+            </div>
         </div>
     </div>
 </div>
