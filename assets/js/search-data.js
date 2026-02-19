@@ -77,8 +77,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/lab_ecofisio_uc/projects/interaction_networks/";
-            },},{id: "projects-thermal-biology-and-climate-change",
-          title: 'Thermal Biology and Climate Change',
+            },},{id: "projects-thermal-biology-and-niche-models",
+          title: 'Thermal Biology and Niche Models',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/lab_ecofisio_uc/projects/thermalbio/";
