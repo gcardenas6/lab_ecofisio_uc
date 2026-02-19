@@ -11,4 +11,4 @@ permalink: /projects/evophysio/
 
 ## Overview
 
-Las características fenotípicas no evolucionan de forma independiente, sea por restricciones funcionales o por factores genéticos, lo que restringe el número de posibles respuestas evolutivas frente a presiones selectivas. En nuestro laboratorio estudiamos cómo distintos linajes responden a distintas presiones selectivas y cómo emergen fenotipos integrados en respuesta a la selección natural. Para ello hemos empleado aproximaciones empíricas y comparativa, y hemos estudiado una gran variedad de organismos que incluyen insectos, peces, anfibios, aves, mamíferos e incluso dinosaurios.
+Phenotypic traits do not evolve independently, whether due to functional constraints or genetic factors, which limits the number of possible evolutionary responses to selective pressures. In our laboratory, we study how different lineages respond to different selective pressures and how integrated phenotypes emerge in response to natural selection. To do this, we have used empirical and comparative approaches and have studied a wide variety of organisms, including insects, fish, amphibians, birds, mammals, and even dinosaurs.

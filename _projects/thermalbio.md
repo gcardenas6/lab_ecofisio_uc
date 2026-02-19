@@ -7,9 +7,8 @@ importance: 2
 category: research
 lang: en
 permalink: /projects/thermalbio/
-
 ---
 
 ## Overview
 
-Una de las grandes incógnitas de la actualidad es cómo van a responder distintos organismos al cambio climático. Con nuestros colaboradores, hemos desarrollado nuevas aproximaciones para estimar el rango de termotolerancia de distintos linajes, y en la actualidad nos enfocamos en desarrollar modelos mecanísticos que permitan predecir, en base a rasgos fisiológicos y de historia de vida estimados en el laboratorio, la resiliencia de distintos linajes al cambio ambiental y su potencial distribución en escenarios futuros.
+One of the great unknowns of our time is how different organisms will respond to climate change. With our collaborators, we have developed new approaches to estimate the thermotolerance range of different lineages, and we are currently focused on developing mechanistic models that allow us to predict, based on physiological traits and life history estimated in the laboratory, the resilience of different lineages to environmental change and their potential distribution in future scenarios.
