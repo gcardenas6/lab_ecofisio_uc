@@ -31,13 +31,13 @@ nav_order: 4
         <p class="card-text small">Text.</p>
         <p class="card-text"><a href="mailto:enrico.rezende@uc.cl">enrico.rezende@uc.cl</a></p>
         <div class="academic-icons text-center my-2">
-        <a href="https://orcid.org/0000-0002-6245-9605" target="_blank" title="ORCID" class="academic-link">
-          <i class="fa-brands fa-orcid fa-2x"></i>
-        </a>
-        <a href="https://scholar.google.com/citations?user=n_6ZnroAAAAJ&hl=en&oi=ao" target="_blank" title="Google Scholar" class="academic-link">
-          <i class="fa-solid fa-graduation-cap fa-2x"></i>
-        </a>
-      </div>
+          <a href="https://orcid.org/0000-0002-6245-9605" target="_blank" title="ORCID" class="academic-link">
+            <i class="fa-brands fa-orcid fa-2x"></i>
+          </a>
+          <a href="https://scholar.google.com/citations?user=n_6ZnroAAAAJ&hl=es&oi=ao" target="_blank" title="Google Scholar" class="academic-link">
+            <i class="fa-solid fa-graduation-cap fa-2x"></i>
+          </a>
+        </div>
       </div>
     </div>
   </div>
@@ -56,6 +56,11 @@ nav_order: 4
         <p class="card-text small">
         I work in the lab supporting the technical and administrative execution of research projects, including the planification and coordination of fieldwork. My interests lie in science communication and the development of projects with a narrative and audiovisual approach. I am motivated to strengthen the link between science and society.</p>
         <p class="card-text"><a href="mailto:aviagonzalez@gmail.com">aviagonzalez@gmail.com</a></p>
+        <div class="academic-icons text-center my-2">
+          <a href="https://orcid.org/0000-0003-1371-6537" target="_blank" title="ORCID" class="academic-link">
+            <i class="fa-brands fa-orcid fa-2x"></i>
+          </a>
+        </div>
       </div>
     </div>
   </div>
@@ -73,6 +78,14 @@ nav_order: 4
         <h5 class="card-title">Mauricio Carter</h5>
         <p class="card-text small">Text.</p>
         <p class="card-text"><a href="mailto:mauricio.carter@unab.cl">mauricio.carter@unab.cl</a></p>
+        <div class="academic-icons text-center my-2">
+          <a href="https://orcid.org/0000-0002-5351-8108" target="_blank" title="ORCID" class="academic-link">
+            <i class="fa-brands fa-orcid fa-2x"></i>
+          </a>
+          <a href="https://scholar.google.com/citations?user=l7KksIMAAAAJ&hl=es&oi=ao" target="_blank" title="Google Scholar" class="academic-link">
+            <i class="fa-solid fa-graduation-cap fa-2x"></i>
+          </a>
+        </div>
       </div>
     </div>
   </div>
@@ -84,6 +97,14 @@ nav_order: 4
         <h5 class="card-title">Grisel Cavieres</h5>
         <p class="card-text small">Text.</p>
         <p class="card-text"><a href="mailto:gcavieres@udec.cl">gcavieres@udec.cl</a></p>
+        <div class="academic-icons text-center my-2">
+          <a href="https://orcid.org/0000-0003-4230-2923" target="_blank" title="ORCID" class="academic-link">
+            <i class="fa-brands fa-orcid fa-2x"></i>
+          </a>
+          <a href="https://scholar.google.com/citations?user=Eo65gQYAAAAJ&hl=es&oi=ao" target="_blank" title="Google Scholar" class="academic-link">
+            <i class="fa-solid fa-graduation-cap fa-2x"></i>
+          </a>
+        </div>
       </div>
     </div>
   </div>
@@ -95,6 +116,14 @@ nav_order: 4
         <h5 class="card-title">Ignacio Peralta Maraver</h5>
         <p class="card-text small">Text.</p>
         <p class="card-text"><a href="mailto:peraltamaraver@ugr.es">peraltamaraver@ugr.es</a></p>
+        <div class="academic-icons text-center my-2">
+          <a href="https://orcid.org/0000-0002-3467-7664" target="_blank" title="ORCID" class="academic-link">
+            <i class="fa-brands fa-orcid fa-2x"></i>
+          </a>
+          <a href="https://scholar.google.com/citations?user=_aPQ3ugAAAAJ&hl=es&oi=ao" target="_blank" title="Google Scholar" class="academic-link">
+            <i class="fa-solid fa-graduation-cap fa-2x"></i>
+          </a>
+        </div>
       </div>
     </div>
   </div>
