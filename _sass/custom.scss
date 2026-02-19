@@ -34,11 +34,17 @@
 
 // Make all other navbar text semi-bold
 .navbar .nav-link {
-  font-weight: 600 !important;  // Semi-bold
+  font-weight: 550 !important;  // Semi-bold
 }
 
 // Make all navbar links semi-bold (includes nav items and language switcher)
 .navbar .nav-link,
 .navbar-nav .nav-item a {
-  font-weight: 600 !important;  // Semi-bold
+  font-weight: 550 !important;  // Semi-bold
+}
+
+// Change Enrico's profile font to match the main body text exactly:
+.profile .more-info {
+  font-family: var(--global-text-font-family);
+  font-size: 1rem;
 }

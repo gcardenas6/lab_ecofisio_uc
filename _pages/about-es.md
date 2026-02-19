@@ -3,13 +3,14 @@ layout: about
 title: Title
 permalink: /es/
 lang: es
-subtitle: <strong>Enrico Rezende</strong>
+subtitle: 
 
 profile:
   align: right
   image: enrico_rezende2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p><strong>Enrico Rezende</strong></p>
     <p>Facultad de Ciencias Biológicas, Pontificia Universidad Católica de Chile </p>
     <p>Edificio 210 - Of. 320</p>
     <p>Mail: enrico.rezende@uc.cl</p>
