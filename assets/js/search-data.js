@@ -83,7 +83,7 @@ ninja.data = [{
           title: 'Mosca Científica',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/lab_ecofisio_uc/projects/mosca_cientifica/";
+              window.location.href = "/lab_ecofisio_uc/es/projects/mosca_cientifica/";
             },},{id: "projects-mosca-científica",
           title: 'Mosca Científica',
           description: "",
