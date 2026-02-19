@@ -13,7 +13,7 @@ profile:
     <p><strong>Enrico Rezende</strong></p>
     <p>Facultad de Ciencias Biológicas, Pontificia Universidad Católica de Chile </p>
     <p>Edificio 210 - Of. 320</p>
-    <p>Mail: enrico.rezende@uc.cl</p>
+    <p>Mail: <a href="mailto:enrico.rezende@uc.cl">enrico.rezende@uc.cl</a></p>
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
