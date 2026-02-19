@@ -34,7 +34,7 @@ Mi investigación se centra en la ecología térmica y la fisiología evolutiva,
 
 Además, estudio la arquitectura y dinámica de las redes de interacciones planta-animal, evaluando cómo estas redes se reestructuran bajo escenarios de cambio climático. También analizo cómo las relaciones mutualistas y las redes tróficas se ven afectadas por el cambio climático, aportando conocimientos fundamentales para la conservación de la biodiversidad y la comprensión de los impactos ecológicos del calentamiento global. Mi investigación combina trabajo de campo, experimentos de laboratorio y análisis filogenéticos para ofrecer una visión integral de los mecanismos subyacentes a la adaptación y evolución de los organismos. 
 
-<div class="text-center my-3">
+<div class="text-center mt-5 mb-4">
     <a href="https://www.instagram.com/lab.ecofisio.uc" target="_blank" style="text-decoration: none; color: #E4405F; font-size: 0.95rem;">
         <i class="fa-brands fa-instagram fa-lg mr-2"></i>
         <strong>@lab.ecofisio.uc</strong> en Instagram

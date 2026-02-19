@@ -34,7 +34,7 @@ My research focuses on thermal ecology and evolutionary physiology, addressing h
 
 In addition, I study the architecture and dynamics of plant-animal interaction networks, evaluating how these networks restructure under climate change scenarios. I also analyze how mutualistc relationships and trophic networks are affected by climate change, contributing fundamental knowledge for biodiversity conservation and the understanding the ecological impacts of global warming. My research combines fieldwork, laboratory experiments and phylogenetic analyses to offer a comprehensive view of the underlying mechanisms of organism adaptation and evolution.
 
-<div class="text-center my-3">
+<div class="text-center mt-5 mb-4">
     <a href="https://www.instagram.com/lab.ecofisio.uc" target="_blank" style="text-decoration: none; color: #E4405F; font-size: 0.95rem;">
         <i class="fa-brands fa-instagram fa-lg mr-2"></i>
         <strong>@lab.ecofisio.uc</strong> on Instagram
