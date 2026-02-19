@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Evolution of Integrated Phenotypes 
+title: Evolución de Fenotipos Integrados 
 description: 
 img: assets/img/projects/evophysio.jpg
 importance: 1
 category: research
-lang: en
-permalink: /projects/evophysio/
+lang: es
+permalink: /es/projects/evophysio/
 ---
 
 ## Overview

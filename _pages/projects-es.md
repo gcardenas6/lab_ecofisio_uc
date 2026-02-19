@@ -20,7 +20,7 @@ Nuestra investigación aborda cómo los organismos responden al cambio ambiental
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
+  {% assign categorized_projects = site.projects | where: "category", category | where: "lang", page.lang %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
@@ -44,7 +44,7 @@ Nuestra investigación aborda cómo los organismos responden al cambio ambiental
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+{% assign sorted_projects = site.projects | where: "lang", page.lang | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 

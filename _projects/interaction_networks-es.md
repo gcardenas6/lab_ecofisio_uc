@@ -5,8 +5,8 @@ description:
 img: assets/img/projects/networks.png
 importance: 3
 category: research
-lang: en
-permalink: /projects/interaction_networks/
+lang: es
+permalink: /es/projects/interaction_networks/
 ---
 
 ## Overview

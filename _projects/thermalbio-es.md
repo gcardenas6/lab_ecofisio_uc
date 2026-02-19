@@ -5,9 +5,8 @@ description:
 img: assets/img/projects/thermalbio.png
 importance: 2
 category: research
-lang: en
-permalink: /projects/thermalbio/
-
+lang: es
+permalink: /es/projects/thermalbio/
 ---
 
 ## Overview
