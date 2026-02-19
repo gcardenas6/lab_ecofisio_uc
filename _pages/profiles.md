@@ -91,7 +91,7 @@ nav_order: 4
       <img src="{{ '/assets/img/gustavo_cardenas2.jpeg' | relative_url }}" alt="Gustavo Cárdenas" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Gustavo Cárdenas</h5>
-        <p class="card-text small">Text</p>
+        <p class="card-text small">I am a PhD student studying the dynamics and evolutionary dimensions of ecological networks, with a focus on plant-pollinator interactions. I use quantitative and computational approaches to understand how shared evolutionary history shapes interaction patterns and network structure.</p>
         <p class="card-text"><a href="mailto:gustavocardenas@uc.cl">gustavocardenas@uc.cl</a></p>
       </div>
     </div>

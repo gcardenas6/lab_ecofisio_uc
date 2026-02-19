@@ -93,7 +93,7 @@ nav_order: 4
       <img src="{{ '/assets/img/gustavo_cardenas2.jpeg' | relative_url }}" alt="Gustavo Cárdenas" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Gustavo Cárdenas</h5>
-        <p class="card-text small">Text</p>
+        <p class="card-text small">Soy un estudiante de doctorado interesado en comprender la dinámica y dimensión evolutiva de las redes ecológicas, especialmente las interacciones planta-polinizador. Mi trabajo aplica enfoques cuantitativos y computacionales para evaluar cómo la historia evolutiva compartida impacta los patrones de interacción y la estructura de las redes.</p>
         <p class="card-text"><a href="mailto:gustavocardenas@uc.cl">gustavocardenas@uc.cl</a></p>
       </div>
     </div>
