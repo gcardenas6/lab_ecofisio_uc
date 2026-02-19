@@ -32,4 +32,11 @@ latest_posts:
 
 My research focuses on thermal ecology and evolutionary physiology, addressing how ectothermic organisms respond to variations in their thermal environment. I use a combination of experimental studies and theoretical models to analyze the physiological and behavioral responses to temperature in different species, including terrestrial and aquatic organisms. A crucial aspect of my work is exploring the mechanistic basis of thermal adaptation, investigating how genetic variations affect heat and cold tolerance. This allows us to predict species' response to climate change and understand the mechanisms phenotypic plasticity and evolutionary adapation that could facilitate the survival of different organisms in different environments. 
 
-In addition, I study the architecture and dynamics of plant-animal interaction networks, evaluating how these networks restructure under climate change scenarios. I also analyze how mutualistc relationships and trophic networks are affected by climate change, contributing fundamental knowledge for biodiversity conservation and the understanding the ecological impacts of global warming. My research combines fieldwork, laboratory experiments and phylogenetic analyses to offer a comprehensive view of the underlying mechanisms of organism adaptation and evolution 
+In addition, I study the architecture and dynamics of plant-animal interaction networks, evaluating how these networks restructure under climate change scenarios. I also analyze how mutualistc relationships and trophic networks are affected by climate change, contributing fundamental knowledge for biodiversity conservation and the understanding the ecological impacts of global warming. My research combines fieldwork, laboratory experiments and phylogenetic analyses to offer a comprehensive view of the underlying mechanisms of organism adaptation and evolution.
+
+<div class="text-center my-3">
+    <a href="https://www.instagram.com/lab.ecofisio.uc" target="_blank" style="text-decoration: none; color: #E4405F; font-size: 0.95rem;">
+        <i class="fa-brands fa-instagram fa-lg mr-2"></i>
+        <strong>@lab.ecofisio.uc</strong> on Instagram
+    </a>
+</div>

@@ -106,35 +106,3 @@
 .fa-youtube:hover {
   color: #FF0000;
 }
-
-// Instagram
-// Compact Instagram box
-.instagram-mini {
-  background-color: rgba(245, 245, 245, 0.6);
-  border-left: 3px solid #E4405F;
-  border-radius: 6px;
-  font-size: 0.95rem;
-}
-
-.instagram-mini .btn-outline-secondary {
-  border-color: #E4405F;
-  color: #E4405F;
-  font-weight: 500;
-  white-space: nowrap;
-  
-  &:hover {
-    background-color: #E4405F;
-    color: white;
-  }
-}
-
-.instagram-mini i {
-  flex-shrink: 0;
-}
-
-// smaller
-.instagram-inline {
-  border-top: 1px solid rgba(0,0,0,0.1);
-  border-bottom: 1px solid rgba(0,0,0,0.1);
-  font-size: 0.9rem;
-}
