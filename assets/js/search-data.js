@@ -79,6 +79,16 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/lab_ecofisio_uc/projects/interaction_networks/";
+            },},{id: "projects-mosca-científica",
+          title: 'Mosca Científica',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/lab_ecofisio_uc/projects/mosca_cientifica/";
+            },},{id: "projects-mosca-científica",
+          title: 'Mosca Científica',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/lab_ecofisio_uc/projects/mosca_cientifica/";
             },},{id: "projects-biología-térmica-y-modelos-de-nicho",
           title: 'Biología Térmica y Modelos de nicho',
           description: "",
