@@ -45,6 +45,7 @@
 
 // Change Enrico's profile font to match the main body text exactly:
 .profile .more-info {
-  font-family: var(--global-text-font-family);
-  font-size: 1rem;
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  font-size: 0.95rem;
+  line-height: 1.6;
 }
