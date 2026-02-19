@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Thermal Biology and Climate Change 
+title: Thermal Biology and Niche Models
 description: 
-img: assets/img/projects/thermalbio.jpg
+img: assets/img/projects/thermalbio.png
 importance: 2
 category: research
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Ecological Networks 
 description: 
-img: assets/img/projects/networks.jpg
+img: assets/img/projects/networks.png
 importance: 3
 category: research
 ---
