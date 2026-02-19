@@ -30,6 +30,14 @@ nav_order: 4
         <h5 class="card-title">Enrico Rezende</h5>
         <p class="card-text small">Text.</p>
         <p class="card-text"><a href="mailto:enrico.rezende@uc.cl">enrico.rezende@uc.cl</a></p>
+        <div class="academic-icons text-center my-2">
+          <a href="https://orcid.org/0000-0002-6245-9605" target="_blank" title="ORCID" class="academic-link">
+            <i class="fa-brands fa-orcid fa-2x"></i>
+          </a>
+          <a href="https://scholar.google.com/citations?user=n_6ZnroAAAAJ&hl=es&oi=ao" target="_blank" title="Google Scholar" class="academic-link">
+            <i class="fa-solid fa-graduation-cap fa-2x"></i>
+          </a>
+        </div>
       </div>
     </div>
   </div>
@@ -50,10 +58,16 @@ nav_order: 4
         Mis intereses se enfocan en la divulgación científica y el desarrollo de proyectos con enfoque narrativo y audiovisual.
         Me motiva fortalecer la vinculación entre ciencia y sociedad.</p>
         <p class="card-text"><a href="mailto:aviagonzalez@gmail.com">aviagonzalez@gmail.com</a></p>
+        <div class="academic-icons text-center my-2">
+          <a href="https://orcid.org/0000-0003-1371-6537" target="_blank" title="ORCID" class="academic-link">
+            <i class="fa-brands fa-orcid fa-2x"></i>
+          </a>
+        </div>
       </div>
     </div>
   </div>
 </div>
+
 
 ---
 
@@ -67,10 +81,18 @@ nav_order: 4
         <h5 class="card-title">Mauricio Carter</h5>
         <p class="card-text small">Text.</p>
         <p class="card-text"><a href="mailto:mauricio.carter@unab.cl">mauricio.carter@unab.cl</a></p>
+        <div class="academic-icons text-center my-2">
+          <a href="https://orcid.org/0000-0002-5351-8108" target="_blank" title="ORCID" class="academic-link">
+            <i class="fa-brands fa-orcid fa-2x"></i>
+          </a>
+          <a href="https://scholar.google.com/citations?user=l7KksIMAAAAJ&hl=es&oi=ao" target="_blank" title="Google Scholar" class="academic-link">
+            <i class="fa-solid fa-graduation-cap fa-2x"></i>
+          </a>
+        </div>
       </div>
     </div>
   </div>
-
+  
   <div class="col-sm-6 col-md-4 mb-4">
     <div class="card team-card hoverable">
       <img src="{{ '/assets/img/grisel_cavieres.jpg' | relative_url }}" alt="Grisel Cavieres" class="card-img-top">
@@ -78,6 +100,14 @@ nav_order: 4
         <h5 class="card-title">Grisel Cavieres</h5>
         <p class="card-text small">Text.</p>
         <p class="card-text"><a href="mailto:gcavieres@udec.cl">gcavieres@udec.cl</a></p>
+        <div class="academic-icons text-center my-2">
+          <a href="https://orcid.org/0000-0003-4230-2923" target="_blank" title="ORCID" class="academic-link">
+            <i class="fa-brands fa-orcid fa-2x"></i>
+          </a>
+          <a href="https://scholar.google.com/citations?user=Eo65gQYAAAAJ&hl=es&oi=ao" target="_blank" title="Google Scholar" class="academic-link">
+            <i class="fa-solid fa-graduation-cap fa-2x"></i>
+          </a>
+        </div>
       </div>
     </div>
   </div>
@@ -89,6 +119,14 @@ nav_order: 4
         <h5 class="card-title">Ignacio Peralta Maraver</h5>
         <p class="card-text small">Text.</p>
         <p class="card-text"><a href="mailto:peraltamaraver@ugr.es">peraltamaraver@ugr.es</a></p>
+        <div class="academic-icons text-center my-2">
+          <a href="https://orcid.org/0000-0002-3467-7664" target="_blank" title="ORCID" class="academic-link">
+            <i class="fa-brands fa-orcid fa-2x"></i>
+          </a>
+          <a href="https://scholar.google.com/citations?user=_aPQ3ugAAAAJ&hl=es&oi=ao" target="_blank" title="Google Scholar" class="academic-link">
+            <i class="fa-solid fa-graduation-cap fa-2x"></i>
+          </a>
+        </div>
       </div>
     </div>
   </div>
@@ -117,6 +155,14 @@ nav_order: 4
         <h5 class="card-title">Lázaro Castro</h5>
         <p class="card-text small">Text</p>
         <p class="card-text"><a href="mailto:lcastro2@uc.cl">lcastro2@uc.cl</a></p>
+        <div class="academic-icons text-center my-2">
+          <a href="https://orcid.org/0000-0001-8259-230X" target="_blank" title="ORCID" class="academic-link">
+            <i class="fa-brands fa-orcid fa-2x"></i>
+          </a>
+          <a href="https://scholar.google.com/citations?hl=es&user=zDerFCkAAAAJ" target="_blank" title="Google Scholar" class="academic-link">
+            <i class="fa-solid fa-graduation-cap fa-2x"></i>
+          </a>
+        </div>
       </div>
     </div>
   </div>
@@ -139,6 +185,11 @@ nav_order: 4
         <h5 class="card-title">Andrés Molina</h5>
         <p class="card-text small">Text</p>
         <p class="card-text"><a href="mailto:anmolina1@uc.cl">anmolina1@uc.cl</a></p>
+        <div class="academic-icons text-center my-2">
+          <a href="https://scholar.google.com/citations?hl=es&user=zDerFCkAAAAJ" target="_blank" title="Google Scholar" class="academic-link">
+            <i class="fa-solid fa-graduation-cap fa-2x"></i>
+          </a>
+        </div>
       </div>
     </div>
   </div>
@@ -151,6 +202,11 @@ nav_order: 4
         <p class="card-text small">Profesor de Biología y Ciencias Naturales titulado en la Universidad Metropolitana de Ciencias de la Educación (UMCE), actualmente cursando el Doctorado en Ecología Integrativa de la Universidad Mayor. 
         Mi tesis evalúa la influencia del microbioma intestinal en el desempeño fisiológico-conductual y adecuación biológica de <i>Drosophila</i>. Mi proyecto abarca tópicos como ecología nutricional, plasticidad fenotípica y simbiosis, evaluando experimentalmente la respuesta adaptativa del holobionte. Mis principales áreas de interés son ecofisiología, ecología conductual, ecología evolutiva y ecología microbiana.</p>
         <p class="card-text"><a href="mailto:jahir.munoz@mayor.cl">jahir.munoz@mayor.cl</a></p>
+        <div class="academic-icons text-center my-2">
+          <a href="https://orcid.org/0009-0004-6501-1381" target="_blank" title="ORCID" class="academic-link">
+            <i class="fa-brands fa-orcid fa-2x"></i>
+          </a>
+        </div>
       </div>
     </div>
   </div>
@@ -162,6 +218,10 @@ nav_order: 4
         <h5 class="card-title">Cristian Zamora</h5>
         <p class="card-text small">Text</p>
         <p class="card-text"><a href="mailto:cazamora1@uc.cl">cazamora1@uc.cl</a></p>
+          <a href="https://scholar.google.com/citations?user=anysRXkAAAAJ&hl=es&oi=ao" target="_blank" title="Google Scholar" class="academic-link">
+            <i class="fa-solid fa-graduation-cap fa-2x"></i>
+          </a>
+        </div>
       </div>
     </div>
   </div>

@@ -152,9 +152,18 @@ nav_order: 4
         <h5 class="card-title">Lázaro Castro</h5>
         <p class="card-text small">Text</p>
         <p class="card-text"><a href="mailto:lcastro2@uc.cl">lcastro2@uc.cl</a></p>
+        <div class="academic-icons text-center my-2">
+          <a href="https://orcid.org/0000-0001-8259-230X" target="_blank" title="ORCID" class="academic-link">
+            <i class="fa-brands fa-orcid fa-2x"></i>
+          </a>
+          <a href="https://scholar.google.com/citations?hl=es&user=zDerFCkAAAAJ" target="_blank" title="Google Scholar" class="academic-link">
+            <i class="fa-solid fa-graduation-cap fa-2x"></i>
+          </a>
+        </div>
       </div>
     </div>
   </div>
+  
 
   <div class="col-sm-6 col-md-4 mb-4">
     <div class="card team-card hoverable">
@@ -174,6 +183,11 @@ nav_order: 4
         <h5 class="card-title">Andrés Molina</h5>
         <p class="card-text small">Text</p>
         <p class="card-text"><a href="mailto:anmolina1@uc.cl">anmolina1@uc.cl</a></p>
+        <div class="academic-icons text-center my-2">
+          <a href="https://scholar.google.com/citations?hl=es&user=zDerFCkAAAAJ" target="_blank" title="Google Scholar" class="academic-link">
+            <i class="fa-solid fa-graduation-cap fa-2x"></i>
+          </a>
+        </div>
       </div>
     </div>
   </div>
@@ -186,6 +200,11 @@ nav_order: 4
         <p class="card-text small">
         I am a Biology and Natural Sciences teacher, graduated from the Universidad Metropolitana de Ciencias de la Educación (UMCE), and currently pursuing a PhD in Integrative Ecology at Universidad Mayor. My thesis evaluates the influence of the gut microbiome on the physiological-behavioral performance and biological fitness of <i>Drosophila</i>. My project covers topics such as nutritional ecology, phenotypic plasticity, and symbiosis, experimentally assessing the adaptive response of the holobiont. My main areas of interest are ecophysiology, behavioral ecology, evolutionary ecology, and microbial ecology.</p>
         <p class="card-text"><a href="mailto:jahir.munoz@mayor.cl">jahir.munoz@mayor.cl</a></p>
+        <div class="academic-icons text-center my-2">
+          <a href="https://orcid.org/0009-0004-6501-1381" target="_blank" title="ORCID" class="academic-link">
+            <i class="fa-brands fa-orcid fa-2x"></i>
+          </a>
+        </div>
       </div>
     </div>
   </div>
@@ -197,6 +216,10 @@ nav_order: 4
         <h5 class="card-title">Cristian Zamora</h5>
         <p class="card-text small">Text</p>
         <p class="card-text"><a href="mailto:cazamora1@uc.cl">cazamora1@uc.cl</a></p>
+          <a href="https://scholar.google.com/citations?user=anysRXkAAAAJ&hl=es&oi=ao" target="_blank" title="Google Scholar" class="academic-link">
+            <i class="fa-solid fa-graduation-cap fa-2x"></i>
+          </a>
+        </div>
       </div>
     </div>
   </div>
