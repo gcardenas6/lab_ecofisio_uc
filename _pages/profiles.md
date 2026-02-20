@@ -178,7 +178,7 @@ nav_order: 4
 
   <div class="col-sm-6 col-md-4 mb-4">
     <div class="card team-card hoverable">
-      <img src="{{ '/assets/img/andres_molina.HEIC' | relative_url }}" alt="Andrés Molina" class="card-img-top">
+      <img src="{{ '/assets/img/andres_molina.jpg' | relative_url }}" alt="Andrés Molina" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Andrés Molina</h5>
         <p class="card-text small">I am a marine biologist, and my doctoral research investigates how heat tolerance has evolved in ectothermic animals, primarily fishes, exploring how plasticity and evolutionary adaptation shape the vulnerability of different lineages to climate change.</p>

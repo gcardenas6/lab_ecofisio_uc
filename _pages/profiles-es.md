@@ -180,7 +180,7 @@ nav_order: 4
 
   <div class="col-sm-6 col-md-4 mb-4">
     <div class="card team-card hoverable">
-      <img src="{{ '/assets/img/andres_molina.HEIC' | relative_url }}" alt="Andrés Molina" class="card-img-top">
+      <img src="{{ '/assets/img/andres_molina.jpg' | relative_url }}" alt="Andrés Molina" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Andrés Molina</h5>
         <p class="card-text small">Soy biólogo marino y mi investigación doctoral se enfoca en cómo ha evolucionado la tolerancia al calor en animales ectotermos, principalmente peces, explorando cómo la plasticidad y adaptación evolutiva moldean la vulnerabilidad de diferentes linajes frente al cambio climático.</p>
