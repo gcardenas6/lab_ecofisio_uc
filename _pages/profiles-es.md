@@ -256,10 +256,10 @@ nav_order: 4
 
   <div class="col-sm-6 col-md-4 mb-4">
     <div class="card team-card hoverable">
-      <img src="{{ '/assets/img/placeholder.jpg' | relative_url }}" alt="Melania Nagel" class="card-img-top">
+      <img src="{{ '/assets/img/melanie_nagel.jpg' | relative_url }}" alt="Melania Nagel" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Melanie Nagel</h5>
-        <p class="card-text small">Texto</p>
+        <p class="card-text small">Mi enfoque como estudiante de biología es la fisiología de insectos en respuesta a su ambiente, y actualmente estoy estudiando el efecto de estres subletal en individuos. Espero poder utilizar mis investigaciones para profundizar el conocimiento sobre los efectos del cambio climático en los artrópodos, su ciclo de vida, y su comportamiento.</p>
         <p class="card-text"><a href="mailto:melanie.nagel@uc.cl">melanie.nagel@uc.cl</a></p>      </div>
     </div>
   </div>
