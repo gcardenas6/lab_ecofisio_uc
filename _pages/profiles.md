@@ -198,7 +198,7 @@ nav_order: 4
       <div class="card-body">
         <h5 class="card-title">Jahir Muñoz Hernández</h5>
         <p class="card-text small">
-        I am a Biology and Natural Sciences teacher. My doctoral research examines the influence of the gut microbiome on the physiological and behavioral performance and biological fitness of *Drosophila*. My project experimentally evaluates the phenotypic plasticity and adaptive response of the holobiont, integrating nutritional ecology and symbiosis. My research interests include ecophysiology, behavioral ecology, evolutionary ecology, and microbial ecology.</p>
+        I am a Biology and Natural Sciences teacher. My doctoral research examines the influence of the gut microbiome on the physiological and behavioral performance and biological fitness of _Drosophila_. My project experimentally evaluates the phenotypic plasticity and adaptive response of the holobiont, integrating nutritional ecology and symbiosis. My research interests include ecophysiology, behavioral ecology, evolutionary ecology, and microbial ecology.</p>
         <p class="card-text"><a href="mailto:jahir.munoz@mayor.cl">jahir.munoz@mayor.cl</a></p>
         <div class="academic-icons text-center my-2">
           <a href="https://orcid.org/0009-0004-6501-1381" target="_blank" title="ORCID" class="academic-link">
@@ -235,7 +235,7 @@ nav_order: 4
       <img src="{{ '/assets/img/placeholder.jpg' | relative_url }}" alt="Diego Carmona" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Diego Carmona</h5>
-        <p class="card-text small">Texto</p>
+        <p class="card-text small">I am a biology undergraduate student interested in the effect of climate change on pollination networks. I am currently working on the effect of urbanization on the composition of pollination networks in Santiago de Chile, describing the thermal limits for key pollinators, and modeling changes in interactions due to thermal stress.</p>
         <p class="card-text"><a href="mailto:diego.carmona@uc.cl">diego.carmona@uc.cl</a></p>
       </div>
     </div>
