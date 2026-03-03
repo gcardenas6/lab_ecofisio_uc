@@ -199,8 +199,7 @@ nav_order: 4
       <img src="{{ '/assets/img/jahir_munoz.jpeg' | relative_url }}" alt="Jahir Muñoz" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Jahir Muñoz Hernández</h5>
-        <p class="card-text small">Profesor de Biología y Ciencias Naturales titulado en la Universidad Metropolitana de Ciencias de la Educación (UMCE), actualmente cursando el Doctorado en Ecología Integrativa de la Universidad Mayor. 
-        Mi tesis evalúa la influencia del microbioma intestinal en el desempeño fisiológico-conductual y adecuación biológica de <i>Drosophila</i>. Mi proyecto abarca tópicos como ecología nutricional, plasticidad fenotípica y simbiosis, evaluando experimentalmente la respuesta adaptativa del holobionte. Mis principales áreas de interés son ecofisiología, ecología conductual, ecología evolutiva y ecología microbiana.</p>
+        <p class="card-text small">Soy profesor de Biología y Ciencias Naturales. Mi tesis doctoral evalúa la influencia del microbioma intestinal en el desempeño fisiológico-conductual y adecuación biológica de Drosophila. Mi proyecto evalúa experimentalmente la plasticidad fenotípica y respuesta adaptativa del holobionte, integrando la ecología nutricional y simbiosis. Mis áreas de interés son ecofisiología, ecología conductual, ecología evolutiva y ecología microbiana.</p>
         <p class="card-text"><a href="mailto:jahir.munoz@mayor.cl">jahir.munoz@mayor.cl</a></p>
         <div class="academic-icons text-center my-2">
           <a href="https://orcid.org/0009-0004-6501-1381" target="_blank" title="ORCID" class="academic-link">
