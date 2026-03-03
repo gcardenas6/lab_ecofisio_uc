@@ -267,7 +267,7 @@ nav_order: 4
       <img src="{{ '/assets/img/placeholder.jpg' | relative_url }}" alt="Josefina Parraguirre" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Josefina Parraguirre</h5>
-        <p class="card-text small">Texto</p>
+        <p class="card-text small">I am a biology student and I aim to understand how animals respond to climate change, in terms of temperature and distribution, so that we as scientists can improve our ways to conserve wildlife. My focus relies on recreating stress scenarios on the laboratory to investigate population viability and physiological changes in response to different environmental conditions, in order to create more effective techniques to preserve species.</p>
         <p class="card-text"><a href="mailto:josefina.parraguirre@uc.cl">josefina.parraguirre@uc.cl</a></p>      </div>
     </div>
   </div>

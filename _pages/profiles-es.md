@@ -268,7 +268,7 @@ nav_order: 4
       <img src="{{ '/assets/img/placeholder.jpg' | relative_url }}" alt="Josefina Parraguirre" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Josefina Parraguirre</h5>
-        <p class="card-text small">Texto</p>
+        <p class="card-text small">Soy estudiante de biología y busco entender cómo los animales responden al cambio climático, en términos de temperatura y distribución, para que así podamos mejorar nuestros métodos de conservación de la vida silvestre. Mi enfoque es recrear escenarios de estrés en el laboratorio, para investigar la viabilidad poblacional y cambios fisiológicos en respuesta a diferentes condiciones ambientales, y así poder desarrollar técnicas de preservación de especies más efectivas.</p>
         <p class="card-text"><a href="mailto:josefina.parraguirre@uc.cl">josefina.parraguirre@uc.cl</a></p>      </div>
     </div>
   </div>
