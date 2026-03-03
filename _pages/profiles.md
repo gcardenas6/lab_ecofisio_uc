@@ -232,10 +232,10 @@ nav_order: 4
 <div class="row">
   <div class="col-sm-6 col-md-4 mb-4">
     <div class="card team-card hoverable">
-      <img src="{{ '/assets/img/placeholder.jpg' | relative_url }}" alt="Diego Carmona" class="card-img-top">
+      <img src="{{ '/assets/img/diego_carmona.jpeg' | relative_url }}" alt="Diego Carmona" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Diego Carmona</h5>
-        <p class="card-text small">Texto</p>
+        <p class="card-text small">I am a biology undergraduate student interested in the effect of climate change on pollination networks. I am currently working on the effect of urbanization on the composition of pollination networks in Santiago de Chile, describing the thermal limits for key pollinators, and modeling changes in interactions due to thermal stress.</p>
         <p class="card-text"><a href="mailto:diego.carmona@uc.cl">diego.carmona@uc.cl</a></p>
       </div>
     </div>

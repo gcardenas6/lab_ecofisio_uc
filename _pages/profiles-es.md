@@ -234,10 +234,10 @@ nav_order: 4
 <div class="row">
   <div class="col-sm-6 col-md-4 mb-4">
     <div class="card team-card hoverable">
-      <img src="{{ '/assets/img/placeholder.jpg' | relative_url }}" alt="Diego Carmona" class="card-img-top">
+      <img src="{{ '/assets/img/diego_carmona.jpeg' | relative_url }}" alt="Diego Carmona" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Diego Carmona</h5>
-        <p class="card-text small">Texto</p>
+        <p class="card-text small">Soy un estudiante licenciado de biología, interesado en el efecto del cambio climático sobre las redes de polinización. Actualmente trabajo en el efecto de la urbanización sobre la composición de las redes en Santiago de Chile, en describir los limites térmicos en polinizadores claves y modelar el cambio de las interacciones debido a estrés térmico.</p>
         <p class="card-text"><a href="mailto:diego.carmona@uc.cl">diego.carmona@uc.cl</a></p>
       </div>
     </div>
