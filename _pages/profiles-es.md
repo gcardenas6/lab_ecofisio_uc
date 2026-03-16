@@ -150,10 +150,10 @@ nav_order: 4
 
   <div class="col-sm-6 col-md-4 mb-4">
     <div class="card team-card hoverable">
-      <img src="{{ '/assets/img/lazaro_castro.jpg' | relative_url }}" alt="Lázaro Castro" class="card-img-top">
+      <img src="{{ '/assets/img/lazaro_castro2.jpeg' | relative_url }}" alt="Lázaro Castro" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Lázaro Castro</h5>
-        <p class="card-text small">Text</p>
+        <p class="card-text small">Soy biólogo y estudiante de doctorado interesado en comprender las dinámicas evolutivas y biogeográficas que moldean la diversidad fúngica. Mi investigación integra enfoques de filogenética, biogeografía histórica y macroecología para analizar los patrones de diversificación, distribución y endemismo en distintos linajes fúngicos. Mediante el uso de herramientas computacionales, busco contribuir al entendimiento de los procesos evolutivos que estructuran la diversidad fúngica y generar conocimiento relevante para su conservación.</p>
         <p class="card-text"><a href="mailto:lcastro2@uc.cl">lcastro2@uc.cl</a></p>
         <div class="academic-icons text-center my-2">
           <a href="https://orcid.org/0000-0001-8259-230X" target="_blank" title="ORCID" class="academic-link">
