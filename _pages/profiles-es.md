@@ -169,6 +169,17 @@ nav_order: 4
 
   <div class="col-sm-6 col-md-4 mb-4">
     <div class="card team-card hoverable">
+      <img src="{{ '/assets/img/placeholder.jpg' | relative_url }}" alt="Dyess Harp" class="card-img-top">
+      <div class="card-body">
+        <h5 class="card-title">Dyess Harp</h5>
+        <p class="card-text small">Text</p>
+        <p class="card-text"><a href="mailto:"></a></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 col-md-4 mb-4">
+    <div class="card team-card hoverable">
       <img src="{{ '/assets/img/francisca_mann.jpg' | relative_url }}" alt="Francisca Mann" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Francisca Mann</h5>
@@ -249,6 +260,17 @@ nav_order: 4
         <h5 class="card-title">Benjamín Davis</h5>
         <p class="card-text small">Estudio Biología Marina y mi principal interés es explorar la ecología fisiológica de especies clave frente a cambios en sus condiciones ambientales. Me motiva la posibilidad de investigar patrones evolutivos y biogeográficos en función a sus límites fisiológicos, con la idea de comprender mejor cómo la vida se adapta a un entorno dinámico</p>
         <p class="card-text"><a href="mailto:b.davis.simian@estudiante.uc.cl">b.davis.simian@estudiante.uc.cl</a></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 col-md-4 mb-4">
+    <div class="card team-card hoverable">
+      <img src="{{ '/assets/img/placeholder.jpg' | relative_url }}" alt="Mateo Fernández" class="card-img-top">
+      <div class="card-body">
+        <h5 class="card-title">Mateo Fernández</h5>
+        <p class="card-text small">.</p>
+        <p class="card-text"><a href="mailto:mateo.fernandez@uc.cl">mateo.fernandez@uc.cl</a></p>
       </div>
     </div>
   </div>

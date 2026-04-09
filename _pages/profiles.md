@@ -164,7 +164,17 @@ nav_order: 4
     </div>
   </div>
   
-
+  <div class="col-sm-6 col-md-4 mb-4">
+    <div class="card team-card hoverable">
+      <img src="{{ '/assets/img/placeholder.jpg' | relative_url }}" alt="Dyess Harp" class="card-img-top">
+      <div class="card-body">
+        <h5 class="card-title">Dyess Harp</h5>
+        <p class="card-text small">Text</p>
+        <p class="card-text"><a href="mailto:"></a></p>
+      </div>
+    </div>
+  </div>
+  
   <div class="col-sm-6 col-md-4 mb-4">
     <div class="card team-card hoverable">
       <img src="{{ '/assets/img/francisca_mann.jpg' | relative_url }}" alt="Francisca Mann" class="card-img-top">
@@ -248,6 +258,17 @@ nav_order: 4
         <h5 class="card-title">Benjamín Davis</h5>
         <p class="card-text small">As a Marine Biology student, my main interest lies in exploring the physiological ecology of key species in response to environmental shifts. I am motivated to research evolutionary and biogeographical patterns based on physiological thresholds, aiming to better understand how life adapts to a dynamic environment.</p>
         <p class="card-text"><a href="mailto:b.davis.simian@estudiante.uc.cl">b.davis.simian@estudiante.uc.cl</a></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 col-md-4 mb-4">
+    <div class="card team-card hoverable">
+      <img src="{{ '/assets/img/placeholder.jpg' | relative_url }}" alt="Mateo Fernández" class="card-img-top">
+      <div class="card-body">
+        <h5 class="card-title">Mateo Fernández</h5>
+        <p class="card-text small">.</p>
+        <p class="card-text"><a href="mailto:mateo.fernandez@uc.cl">mateo.fernandez@uc.cl</a></p>
       </div>
     </div>
   </div>
