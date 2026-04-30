@@ -183,7 +183,7 @@ nav_order: 4
       <img src="{{ '/assets/img/francisca_mann.jpg' | relative_url }}" alt="Francisca Mann" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Francisca Mann</h5>
-        <p class="card-text small">Text</p>
+        <p class="card-text small">Soy bióloga con especialización en recursos naturales y medioambiente, y actualmente candidata a doctora en el programa de Ciencias Biológicas mención Ecología UC. Mi interés principal es evaluar cómo la presencia de una especie define patrones espacio-temporales de una segunda especie, y utilizar este conocimiento para el manejo de especies exóticas invasoras en áreas protegidas. Para esto utilizo información de cámaras trampa y, eventualmente, análisis de heces para evaluar dieta.</p>
         <p class="card-text"><a href="mailto:francisca.mann@uc.cl">francisca.mann@uc.cl</a></p>
       </div>
     </div>

@@ -180,7 +180,7 @@ nav_order: 4
       <img src="{{ '/assets/img/francisca_mann.jpg' | relative_url }}" alt="Francisca Mann" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Francisca Mann</h5>
-        <p class="card-text small">Text</p>
+        <p class="card-text small">I am a biologist specialising in natural resources and the environment, and currently a doctoral candidate in the Biological Sciences programme, Ecology track, at UC. My primary research interest is understanding how the presence of one species shapes the spatio-temporal patterns of a second species, and applying this knowledge to the management of invasive exotic species in protected areas. To this end, I use camera trap data and, where applicable, scat analysis to assess diet.</p>
         <p class="card-text"><a href="mailto:francisca.mann@uc.cl">francisca.mann@uc.cl</a></p>
       </div>
     </div>
