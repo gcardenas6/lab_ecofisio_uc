@@ -169,7 +169,7 @@ nav_order: 4
       <img src="{{ '/assets/img/dyess_harp.jpeg' | relative_url }}" alt="Dyess Harp" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Dyess Harp</h5>
-        <p class="card-text small">Text</p>
+        <p class="card-text small">Hi my name is Dyess, and I never learned to read</p>
         <p class="card-text"><a href="mailto:"></a></p>
       </div>
     </div>
