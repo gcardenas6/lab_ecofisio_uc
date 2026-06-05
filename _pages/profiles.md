@@ -229,7 +229,6 @@ nav_order: 4
           <a href="https://scholar.google.com/citations?user=anysRXkAAAAJ&hl=es&oi=ao" target="_blank" title="Google Scholar" class="academic-link">
             <i class="fa-solid fa-graduation-cap fa-2x"></i>
           </a>
-        </div>
       </div>
     </div>
   </div>
