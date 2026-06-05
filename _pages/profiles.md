@@ -166,7 +166,7 @@ nav_order: 4
   
   <div class="col-sm-6 col-md-4 mb-4">
     <div class="card team-card hoverable">
-      <img src="{{ '/assets/img/placeholder.jpg' | relative_url }}" alt="Dyess Harp" class="card-img-top">
+      <img src="{{ '/assets/img/dyess_harp.jpeg' | relative_url }}" alt="Dyess Harp" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Dyess Harp</h5>
         <p class="card-text small">Text</p>
