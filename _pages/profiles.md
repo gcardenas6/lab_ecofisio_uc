@@ -169,7 +169,8 @@ nav_order: 4
       <img src="{{ '/assets/img/dyess_harp.jpeg' | relative_url }}" alt="Dyess Harp" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Dyess Harp</h5>
-        <p class="card-text small">Hi my name is Dyess, and I never learned to read</p>
+        <p class="card-text small"> 
+        I am a biologist, whose work focuses on a multidisciplinary approach to understanding and conserving biodiversity. My research interests span animal behavior, conservation biology, remote sensing, and genomics with a focus on sea bird species. My current work centers on ex-situ conservation of Spheniscus penguins and the intersection of vocalization and genomics. I am currently pursuing a PhD at the Pontificia Universidad Católica de Chile, where I aim to contribute to research on how animals are responding to rapidly changing environments, particularly within polar and marine ecosystems.</p>
         <p class="card-text"><a href="mailto:"></a></p>
       </div>
     </div>
