@@ -224,7 +224,7 @@ nav_order: 4
       <img src="{{ '/assets/img/cristian_zamora.jpg' | relative_url }}" alt="Cristian Zamora" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Cristian Zamora</h5>
-        <p class="card-text small">Text</p>
+        <p class="card-text small">I am a Marine Biologist and a PhD student in Biological Sciences (Ecology). My research integrates environmental modeling, ecophysiology, and quantitative methods to understand how global warming and deoxygenation are reshaping freshwater ecosystems. I am particularly interested in the spatio-temporal dynamics of water temperature and dissolved oxygen in rivers and streams, and how variation in these environmental conditions influences the responses of freshwater fishes and macroinvertebrates. By linking environmental heterogeneity to biological responses, I aim to understand how climate-driven change affects thermal tolerance, the trophic and size structure of communities, and biogeographic distribution patterns across multiple spatial scales.</p>
         <p class="card-text"><a href="mailto:cazamora1@uc.cl">cazamora1@uc.cl</a></p>
           <a href="https://scholar.google.com/citations?user=anysRXkAAAAJ&hl=es&oi=ao" target="_blank" title="Google Scholar" class="academic-link">
             <i class="fa-solid fa-graduation-cap fa-2x"></i>
